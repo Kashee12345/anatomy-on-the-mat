@@ -70,8 +70,8 @@ section{margin-top:48px;display:flex;flex-direction:column;gap:12px}
   let strip="",mods="";
   M.forEach((m,i)=>{
     strip+=`<a href="#m${m.n}" style="flex:${mins(m)};background:${shades[i%2]}" title="Module ${m.n}: ${m.title}">${m.n}</a>`;
-    mods+=`<details class="mod" id="m${m.n}"${m.n===6?" open":""}><summary><span class="num">${m.n}</span><span><span class="mt">${m.title}</span><br><span class="mf">${m.focus}</span></span><span class="hrs">${mins(m)/60} h</span></summary>
-      <div class="body"><div class="comps">${m.comp.map(c=>`<span class="chip c-con" title="${C[c]}">${c}</span>`).join("")}</div>
+    mods+=`<details class="mod" id="m${m.n}"${m.n===1?" open":""}><summary><span class="num">${m.n}</span><span><span class="mt">${m.title}</span><br><span class="mf">${m.focus}</span></span><span class="hrs">${mins(m)/60} h</span></summary>
+      <div class="body">${m.n<=4?`<a class="btn" style="align-self:flex-start;padding:7px 14px;font-size:.88rem" href="module${m.n}.html">Open Module ${m.n}: slides, study guide, flashcards, exercises</a>`:''}<div class="comps">${m.comp.map(c=>`<span class="chip c-con" title="${C[c]}">${c}</span>`).join("")}</div>
       <ol>${m.lessons.map((l,j)=>`<li><span>${m.n}.${j+1} ${l[0]}${m.n===6&&j===5?' · <a href="lesson.html">sample</a>':""}</span><span>${l[1]} min</span></li>`).join("")}</ol></div></details>`;
     L.filter(x=>x.after===m.n).forEach(x=>{
       strip+=`<a class="live" style="flex:${x.mins}" title="${x.title}">L</a>`;

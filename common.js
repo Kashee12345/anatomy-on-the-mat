@@ -1,7 +1,7 @@
 /* Shared shell (top bar, theme toggle) and the pose figure renderer. */
 (function(){
-  const PAGES=[["index.html","Studio"],["lesson.html","Sample lesson"],["poses.html","Pose explorer"],["flashcards.html","Flashcards"],["chase.html","The Chase"],["course.html","Course map"]];
-  const here=(location.pathname.split("/").pop()||"index.html");
+  const PAGES=[["index.html","Studio"],["course.html","Modules"],["lesson.html","Sample lesson"],["poses.html","Pose explorer"],["flashcards.html","Flashcards"],["chase/index.html","The Chase"]];
+  let here=(location.pathname.split("/").pop()||"index.html"); if(/^module\d/.test(here)) here="course.html";
   const bar=document.getElementById("bar");
   if(bar){
     bar.className="bar";

@@ -6,7 +6,9 @@ A teaching demonstration by Dr. Akash Garg, D.C.: how I teach anatomy and physio
 - `lesson.html` - sample lesson: The Hip in Three Standing Poses (includes the video script)
 - `poses.html` - Pose Explorer: joint actions, muscles and contraction types, contraindications, adaptations for 12 poses
 - `flashcards.html` - 52 flashcards in 8 decks
-- `chase.html` - The Chase review game
+- `chase/index.html` - The Anatomy Chase (220 questions, Modules 1 to 4)
+- `module1.html` to `module4.html` - full modules: study guide, flashcards, interactive exercises, self check
+- `decks/` - PowerPoint lectures with speaker notes; `guides/` - PDF study guides; `diagrams/` - original SVG plates
 - `course.html` - proposed 30-hour course map, mapped to Yoga Alliance RYS 200 Anatomy & Physiology competencies
 
 Plain HTML, CSS and JavaScript. No build step. To publish on GitHub Pages: create a public repo named `anatomy-on-the-mat`, upload these files to the repo root, then Settings > Pages > Deploy from branch `main` / root.

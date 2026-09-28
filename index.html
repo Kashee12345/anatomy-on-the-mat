@@ -30,6 +30,13 @@ section{margin-top:56px}
 .about{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:28px}
 .creds{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;font-size:.93rem}
 .creds li{padding-bottom:8px;border-bottom:1px solid var(--line)}
+.cgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:28px;margin-top:18px}
+.cgrid h3{font-size:1.1rem;margin:16px 0 8px;color:var(--muscle)}
+.cgrid h3:first-child{margin-top:0}
+.cgrid ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:9px}
+.cgrid li{padding-bottom:9px;border-bottom:1px solid var(--line);font-size:.94rem}
+.cgrid li span{display:block;color:var(--muted);font-size:.86rem}
+.grid.mods .tile{border-color:color-mix(in srgb,var(--muscle) 35%,var(--line))}
 @media (max-width:760px){.hero,.about{grid-template-columns:1fr}}
 </style>
 </head>
@@ -62,12 +69,14 @@ section{margin-top:56px}
 
   <section style="margin-top:28px">
     <span class="eyebrow">What is here</span>
-    <h2 style="margin-top:6px">Five working pieces of a course</h2>
+    <h2 style="margin-top:6px">Modules 1 to 4, fully built</h2>
+    <div class="grid mods"><a class="tile" href="module1.html"><span class="eyebrow">Module 1 · 1.5 h</span><h3>The Language of Movement</h3><p class="muted">PowerPoint lecture, study guide (web and PDF), flashcards, interactive exercises and a Chase round.</p><span class="go">Open module →</span></a><a class="tile" href="module2.html"><span class="eyebrow">Module 2 · 2 h</span><h3>The Skeleton for Yoga Teachers</h3><p class="muted">PowerPoint lecture, study guide (web and PDF), flashcards, interactive exercises and a Chase round.</p><span class="go">Open module →</span></a><a class="tile" href="module3.html"><span class="eyebrow">Module 3 · 2.5 h</span><h3>Joints: Structure, Range and Stability</h3><p class="muted">PowerPoint lecture, study guide (web and PDF), flashcards, interactive exercises and a Chase round.</p><span class="go">Open module →</span></a><a class="tile" href="module4.html"><span class="eyebrow">Module 4 · 3 h</span><h3>Muscles and How They Contract</h3><p class="muted">PowerPoint lecture, study guide (web and PDF), flashcards, interactive exercises and a Chase round.</p><span class="go">Open module →</span></a></div>
+    <h2 style="margin-top:40px">More working pieces</h2>
     <div class="grid">
       <a class="tile" href="lesson.html"><span class="eyebrow">Sample lesson · 12 min</span><h3>The Hip in Three Standing Poses</h3><p class="muted">Why Warrior I, Warrior II and Triangle feel so different at the hip, with an interactive pelvis you can turn. Also the script for my teaching video.</p><span class="go">Open lesson →</span></a>
       <a class="tile" href="poses.html"><span class="eyebrow">Reference · 12 poses</span><h3>Pose Explorer</h3><p class="muted">Joint actions, working muscles with their contraction type, contraindications and adaptations for the core Vinyasa poses.</p><span class="go">Explore →</span></a>
       <a class="tile" href="flashcards.html"><span class="eyebrow">Study · 52 cards</span><h3>Flashcards</h3><p class="muted">Movement terms, bones, joints, muscles, breath and nervous system, each tied back to a pose.</p><span class="go">Study →</span></a>
-      <a class="tile" href="chase.html"><span class="eyebrow">Review game</span><h3>The Chase</h3><p class="muted">Build a lead in a one-minute cash builder, then outrun the Chaser down the board. A quiz trainees actually replay.</p><span class="go">Play →</span></a>
+      <a class="tile" href="chase/index.html"><span class="eyebrow">Review game · 220 questions</span><h3>The Anatomy Chase</h3><p class="muted">Race four great anatomists and the Mythmaker through Modules 1 to 4, with lifelines, streaks, a bestiary, daily challenge and a topic report after every run.</p><span class="go">Play →</span></a>
       <a class="tile" href="course.html"><span class="eyebrow">Proposal · 30 hours</span><h3>Course Map</h3><p class="muted">Twelve recorded modules and two live sessions, mapped to every Yoga Alliance RYS 200 Anatomy &amp; Physiology competency.</p><span class="go">See the map →</span></a>
     </div>
   </section>
@@ -97,6 +106,49 @@ section{margin-top:56px}
       <li><b>B.S.</b><br><span class="muted">Wake Forest University</span></li>
       <li><span class="mono" style="font-size:.85rem">kashee123@aol.com · 910-409-0839</span></li>
     </ul>
+  </section>
+
+
+  <section class="creds-full" id="credentials">
+    <span class="eyebrow">Credentials &amp; recognition</span>
+    <h2 style="margin-top:6px">Every degree, license and honor</h2>
+    <div class="cgrid">
+      <div><h3>Degrees</h3><ul>
+        <li><b>Doctor of Chiropractic (D.C.)</b><span>Sherman College of Chiropractic, Boiling Springs, SC</span></li>
+        <li><b>M.S., Pharmacology</b><span>Tulane University School of Medicine, New Orleans, LA</span></li>
+        <li><b>M.B.A.</b><span>Western Governors University</span></li>
+        <li><b>M.S., Management and Leadership</b><span>Western Governors University</span></li>
+        <li><b>M.Ed., Learning Experience Design</b><span>Western Governors University</span></li>
+        <li><b>M.Ed., Higher Education</b><span>American College of Education</span></li>
+        <li><b>M.Ed., Chemistry</b><span>American College of Education</span></li>
+        <li><b>M.Ed., English</b><span>American College of Education</span></li>
+        <li><b>B.S., Biology</b><span>Wake Forest University, Winston-Salem, NC</span></li>
+      </ul></div>
+      <div><h3>Licensure</h3><ul>
+        <li><b>Doctor of Chiropractic, South Carolina</b><span>Active license, plus chiropractic licensure in other states</span></li>
+      </ul>
+      <h3>Honors and awards</h3><ul>
+        <li><b>Innovative Design Award, 2026</b><span>Selected across a full faculty peer field, for teaching systems already in production</span></li>
+        <li><b>Faculty of the Year, 2025</b><span>Spartanburg Community College</span></li>
+        <li><b>NISOD Faculty of the Year, 2023</b><span>National Institute for Staff and Organizational Development</span></li>
+        <li><b>A. Wade Martin Innovator of the Year, nominee, 2023</b><span>Spartanburg Community College</span></li>
+      </ul></div>
+      <div><h3>Teaching and leadership</h3><ul>
+        <li><b>Instructor of Biology, University of South Carolina Upstate</b><span>Full time since 2025: Human Anatomy and Physiology I and II, lecture and lab; Success Coach</span></li>
+        <li><b>Co-chair, Academic Integrity Task Force</b><span>University of South Carolina Upstate</span></li>
+        <li><b>Online adjunct faculty, Vermont State University</b><span>Upper division course in the Holistic Health B.S., 2026</span></li>
+        <li><b>Science Department Chair, Spartanburg Community College</b><span>2019 to 2025: nine full time faculty, 40+ courses, three campuses; faculty at the college from 2007</span></li>
+        <li><b>Director of Grants</b><span>Spartanburg Community College (earlier role); adjunct faculty, USC Union</span></li>
+      </ul>
+      <h3>Impact</h3><ul>
+        <li><b>Teaching anatomy and physiology since 2007</b><span>Mostly to students with no medical background</span></li>
+        <li><b>Open educational resources</b><span>8+ courses rebuilt on OER, cutting textbook cost about 60% for 2,000+ students a year</span></li>
+        <li><b>99% retention</b><span>Across expanded online offerings he designed and taught</span></li>
+        <li><b>Faculty development for 150+ colleagues</b><span>OER, inclusive practice in STEM, accessible online design</span></li>
+        <li><b>Interactive learning library</b><span>Browser games, 3D anatomy atlas, 135+ 3D models, an A&amp;P podcast; 10,000+ documented sessions</span></li>
+        <li><b>Scholarship</b><span>Manuscript in preparation for <i>Anatomical Sciences Education</i> on game based anatomy learning</span></li>
+      </ul></div>
+    </div>
   </section>
 
   <footer class="foot"><span>Anatomy on the Mat · a teaching demonstration by Dr. Akash Garg, D.C.</span><span>Educational content only; not medical advice.</span></footer>
