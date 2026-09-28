@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Flashcards · Anatomy on the Mat</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Young+Serif&display=swap">
+<link rel="stylesheet" href="shared.css">
+<style>
+.head{padding-block:clamp(26px,5vw,48px) 14px;display:flex;flex-direction:column;gap:10px}
+.stage{max-width:640px;margin:18px auto 0;display:flex;flex-direction:column;gap:14px}
+.card{perspective:1400px;height:300px;cursor:pointer;border:0;background:none;padding:0;font:inherit;color:inherit;width:100%}
+.inner{position:relative;width:100%;height:100%;transition:transform .5s;transform-style:preserve-3d}
+.card.flip .inner{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;backface-visibility:hidden;border-radius:14px;border:1px solid var(--line);display:flex;flex-direction:column;justify-content:center;align-items:center;padding:26px;text-align:center;gap:12px}
+.front{background:var(--surface)}
+.front .t{font-family:var(--display);font-size:clamp(1.5rem,4vw,2.1rem);line-height:1.2}
+.back{background:var(--ink);color:var(--bg);transform:rotateY(180deg);font-size:1.05rem;line-height:1.55}
+.back .t{max-width:46ch}
+.deck{font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muscle)}
+.back .deck{color:var(--bone)}
+.row{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.prog{height:6px;background:var(--surface-2);border-radius:4px;overflow:hidden}
+.prog span{display:block;height:100%;background:var(--sage);transition:width .3s}
+.stats{display:flex;justify-content:space-between;font-family:var(--mono);font-size:.8rem;color:var(--muted)}
+.done{text-align:center;padding:40px 20px;background:var(--surface);border:1px solid var(--line);border-radius:14px}
+</style>
+</head>
+<body>
+<div id="bar"></div>
+<main class="wrap">
+  <header class="head">
+    <span class="eyebrow">Study</span>
+    <h1>Flashcards</h1>
+    <p class="lede">Tap a card to flip it. Mark "Got it" to retire the card, or "Again" to send it to the back of the deck.</p>
+    <div class="seg" id="decks" role="group" aria-label="Choose a deck"></div>
+  </header>
+  <div class="stage">
+    <div class="stats"><span id="left"></span><span id="known"></span></div>
+    <div class="prog"><span id="bar2" style="width:0"></span></div>
+    <button class="card" id="card" type="button" aria-label="Flip card">
+      <div class="inner"><div class="face front"><span class="deck" id="fd"></span><span class="t" id="ft"></span><span class="muted mono" style="font-size:.75rem">tap to flip</span></div>
+      <div class="face back"><span class="deck" id="bd"></span><span class="t" id="bt"></span></div></div>
+    </button>
+    <div class="done" id="done" hidden><h2>Deck complete</h2><p class="muted" style="margin-top:8px">Every card in this deck is marked known.</p><div class="row" style="margin-top:16px"><button class="btn" id="again2" type="button">Study again</button></div></div>
+    <div class="row" id="ctl"><button class="btn ghost" id="againBtn" type="button">Again</button><button class="btn" id="gotBtn" type="button">Got it</button></div>
+    <div class="row"><button class="theme-btn" id="shuf" type="button">Shuffle</button></div>
+  </div>
+  <footer class="foot"><span>Anatomy on the Mat · Dr. Akash Garg, D.C.</span><span>Keys: space flips, → got it, ← again</span></footer>
+</main>
+<script src="common.js"></script>
+<script src="data-study.js"></script>
+<script>
+(function(){
+  const decks=["All",...new Set(CARDS.map(c=>c[0]))];
+  let deck="All",queue=[],known=0,total=0;
+  const dEl=document.getElementById("decks"),card=document.getElementById("card");
+  dEl.innerHTML=decks.map(d=>`<button type="button" data-d="${d}" aria-pressed="${d===deck}">${d} <span class="mono muted">${d==="All"?CARDS.length:CARDS.filter(c=>c[0]===d).length}</span></button>`).join("");
+  function start(shuffle){
+    queue=CARDS.filter(c=>deck==="All"||c[0]===deck).slice();
+    if(shuffle)for(let i=queue.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[queue[i],queue[j]]=[queue[j],queue[i]];}
+    known=0;total=queue.length;render();
+  }
+  function render(){
+    const fin=!queue.length;
+    document.getElementById("done").hidden=!fin;card.hidden=fin;document.getElementById("ctl").hidden=fin;
+    document.getElementById("left").textContent=`${queue.length} left`;
+    document.getElementById("known").textContent=`${known} / ${total} known`;
+    document.getElementById("bar2").style.width=(total?known/total*100:0)+"%";
+    if(fin)return;
+    const c=queue[0];card.classList.remove("flip");
+    document.getElementById("fd").textContent=document.getElementById("bd").textContent=c[0];
+    document.getElementById("ft").textContent=c[1];document.getElementById("bt").textContent=c[2];
+  }
+  const flip=()=>card.classList.toggle("flip");
+  const got=()=>{if(!queue.length)return;queue.shift();known++;render();};
+  const again=()=>{if(!queue.length)return;queue.push(queue.shift());render();};
+  card.addEventListener("click",flip);
+  document.getElementById("gotBtn").addEventListener("click",got);
+  document.getElementById("againBtn").addEventListener("click",again);
+  document.getElementById("shuf").addEventListener("click",()=>start(true));
+  document.getElementById("again2").addEventListener("click",()=>start(true));
+  dEl.addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;deck=b.dataset.d;dEl.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b));start(false);});
+  document.addEventListener("keydown",e=>{if(e.target.tagName==="BUTTON"&&e.key===" "&&e.target!==card)return;if(e.key===" "){e.preventDefault();flip();}else if(e.key==="ArrowRight")got();else if(e.key==="ArrowLeft")again();});
+  start(false);
+})();
+</script>
+</body>
+</html>

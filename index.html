@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Anatomy on the Mat</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Young+Serif&display=swap">
+<link rel="stylesheet" href="shared.css">
+<style>
+.hero{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:clamp(20px,4vw,48px);align-items:center;padding-block:clamp(28px,6vw,64px) 24px}
+.hero h1 em{font-style:normal;color:var(--muscle)}
+.hero .stack{gap:18px}
+.flow{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 14px 10px}
+.flow svg{width:100%;height:auto;display:block}
+.readout{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-family:var(--mono);font-size:.78rem;align-items:baseline}
+.readout dt{color:var(--muted)}
+.readout dd{margin:0}
+.step-name{font-family:var(--display);font-size:1.25rem}
+.breath{font-family:var(--mono);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;padding:2px 8px;border-radius:999px;background:var(--sage-soft);color:var(--sage)}
+.breath.ex{background:var(--muscle-soft);color:var(--muscle)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:16px;margin-top:22px}
+.tile{display:flex;flex-direction:column;gap:8px;padding:20px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);text-decoration:none;color:var(--ink);transition:transform .15s,border-color .15s}
+.tile:hover{transform:translateY(-2px);border-color:var(--ink)}
+.tile .go{margin-top:auto;font-family:var(--mono);font-size:.78rem;color:var(--muscle)}
+.method{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:0;border-top:1px solid var(--line);margin-top:18px}
+.method div{padding:16px 16px 16px 0;border-bottom:1px solid var(--line)}
+.method b{font-family:var(--display);font-weight:400;font-size:1.25rem;display:block;margin-bottom:4px}
+section{margin-top:56px}
+.about{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:28px}
+.creds{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;font-size:.93rem}
+.creds li{padding-bottom:8px;border-bottom:1px solid var(--line)}
+@media (max-width:760px){.hero,.about{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div id="bar"></div>
+<main class="wrap">
+  <div class="hero">
+    <div class="stack">
+      <span class="eyebrow">Anatomy &amp; physiology for Vinyasa teachers</span>
+      <h1>Every pose is a question about the body. <em>Learn to read it.</em></h1>
+      <p class="lede">A demonstration of how I teach anatomy to future yoga teachers: through the poses themselves, one joint and one breath at a time, in plain language a new teacher can use in class the next day.</p>
+      <div class="seg" style="gap:10px">
+        <a class="btn" href="lesson.html">Start the sample lesson</a>
+        <a class="btn ghost" href="poses.html">Explore the poses</a>
+      </div>
+    </div>
+    <figure class="flow" style="margin:0" aria-label="Animated Sun Salutation figure">
+      <svg id="flowFig" role="img" aria-label="Stick figure moving through a Sun Salutation"></svg>
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-top:6px">
+        <span class="step-name" id="stepName">Mountain</span>
+        <span class="breath" id="breath">Inhale</span>
+      </div>
+      <dl class="readout" id="readout"></dl>
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-top:8px;gap:8px;flex-wrap:wrap">
+        <span class="plate-cap"><b>Plate 1</b> · Sun Salutation, joint actions per breath</span>
+        <button class="theme-btn" id="pauseBtn" type="button">Pause</button>
+      </div>
+    </figure>
+  </div>
+
+  <section style="margin-top:28px">
+    <span class="eyebrow">What is here</span>
+    <h2 style="margin-top:6px">Five working pieces of a course</h2>
+    <div class="grid">
+      <a class="tile" href="lesson.html"><span class="eyebrow">Sample lesson · 12 min</span><h3>The Hip in Three Standing Poses</h3><p class="muted">Why Warrior I, Warrior II and Triangle feel so different at the hip, with an interactive pelvis you can turn. Also the script for my teaching video.</p><span class="go">Open lesson →</span></a>
+      <a class="tile" href="poses.html"><span class="eyebrow">Reference · 12 poses</span><h3>Pose Explorer</h3><p class="muted">Joint actions, working muscles with their contraction type, contraindications and adaptations for the core Vinyasa poses.</p><span class="go">Explore →</span></a>
+      <a class="tile" href="flashcards.html"><span class="eyebrow">Study · 52 cards</span><h3>Flashcards</h3><p class="muted">Movement terms, bones, joints, muscles, breath and nervous system, each tied back to a pose.</p><span class="go">Study →</span></a>
+      <a class="tile" href="chase.html"><span class="eyebrow">Review game</span><h3>The Chase</h3><p class="muted">Build a lead in a one-minute cash builder, then outrun the Chaser down the board. A quiz trainees actually replay.</p><span class="go">Play →</span></a>
+      <a class="tile" href="course.html"><span class="eyebrow">Proposal · 30 hours</span><h3>Course Map</h3><p class="muted">Twelve recorded modules and two live sessions, mapped to every Yoga Alliance RYS 200 Anatomy &amp; Physiology competency.</p><span class="go">See the map →</span></a>
+    </div>
+  </section>
+
+  <section>
+    <span class="eyebrow">How every lesson is built</span>
+    <h2 style="margin-top:6px">See it, feel it, cue it, check it</h2>
+    <div class="method">
+      <div><b>See it</b><span class="muted">Short anatomy segment with labelled diagrams, one structure at a time.</span></div>
+      <div><b>Feel it</b><span class="muted">The same idea found in a pose, in the trainee's own body.</span></div>
+      <div><b>Cue it</b><span class="muted">Translated into plain words a new teacher can say in class.</span></div>
+      <div><b>Check it</b><span class="muted">Three quick questions and a one-page summary to keep.</span></div>
+    </div>
+  </section>
+
+  <section class="about">
+    <div class="prose">
+      <span class="eyebrow">Your instructor</span>
+      <h2>Dr. Akash Garg, D.C.</h2>
+      <p>I am a chiropractor and biology instructor who has taught anatomy and physiology since 2007, mostly to students with no medical background. I teach Human Anatomy &amp; Physiology full time at the University of South Carolina Upstate, and before that spent eighteen years at Spartanburg Community College, six of them as Science Department Chair.</p>
+      <p>Chiropractic training shapes how I teach movement: spinal and joint biomechanics, palpation, how load travels through the body, and knowing when a complaint needs a referral rather than a modification. I build interactive study tools like the ones on this site for my own courses, because students remember what they can move and test.</p>
+    </div>
+    <ul class="creds">
+      <li><b>Doctor of Chiropractic</b><br><span class="muted">Sherman College of Chiropractic</span></li>
+      <li><b>M.S. Pharmacology</b><br><span class="muted">Tulane University School of Medicine</span></li>
+      <li><b>M.Ed. Learning Experience Design</b><br><span class="muted">Western Governors University</span></li>
+      <li><b>B.S.</b><br><span class="muted">Wake Forest University</span></li>
+      <li><span class="mono" style="font-size:.85rem">kashee123@aol.com · 910-409-0839</span></li>
+    </ul>
+  </section>
+
+  <footer class="foot"><span>Anatomy on the Mat · a teaching demonstration by Dr. Akash Garg, D.C.</span><span>Educational content only; not medical advice.</span></footer>
+</main>
+<script src="common.js"></script>
+<script>
+(function(){
+  const base={view:"side",neck:90,ftL:0,ftR:0};
+  const SEQ=[
+    {n:"Mountain",b:"Exhale",a:{...base,trunk:90,uL:-82,fL:-78,uR:-82,fR:-78,tL:-90,sL:-90,tR:-90,sR:-90},
+      r:[["Spine","neutral curves"],["Hips","neutral"],["Work","ankles make small isometric corrections"]]},
+    {n:"Upward Salute",b:"Inhale",a:{...base,trunk:92,neck:95,uL:95,fL:95,uR:95,fR:95,tL:-90,sL:-90,tR:-90,sR:-90},
+      r:[["Shoulders","flexion overhead, scapulae rotate upward"],["Spine","slight extension"],["Breath","ribs lift and widen"]]},
+    {n:"Standing Forward Fold",b:"Exhale",a:{...base,trunk:-78,neck:-85,uL:-92,fL:-92,uR:-92,fR:-92,tL:-92,sL:-90,tR:-92,sR:-90},
+      r:[["Hips","deep flexion"],["Hamstrings","lengthen"],["Spine","flexion"]]},
+    {n:"Plank",b:"Inhale",a:{...base,trunk:19,neck:22,uL:-90,fL:-90,uR:-90,fR:-90,tL:199,sL:199,ftL:-95,tR:199,sR:199,ftR:-95},
+      r:[["Core","isometric, body in one line"],["Serratus anterior","holds scapulae on the ribs"],["Wrists","extension under load"]]},
+    {n:"Chaturanga",b:"Exhale",a:{...base,trunk:8,neck:10,uL:188,fL:-90,uR:188,fR:-90,tL:188,sL:188,ftL:-95,tR:188,sR:188,ftR:-95},
+      r:[["Triceps","eccentric as you lower"],["Elbows","flexion to about 90 degrees"],["Shoulders","stay level with elbows"]]},
+    {n:"Cobra",b:"Inhale",a:{...base,trunk:45,neck:60,uL:-105,fL:-60,uR:-105,fR:-60,tL:195,sL:180,ftL:185,tR:195,sR:180,ftR:185},
+      r:[["Spine","extension"],["Erector spinae","concentric lift"],["Scapulae","retract and depress"]]},
+    {n:"Downward Dog",b:"Exhale",a:{...base,trunk:-40,neck:-40,uL:-50,fL:-55,uR:-50,fR:-55,tL:-110,sL:-100,ftL:-20,tR:-110,sR:-100,ftR:-20},
+      r:[["Shoulders","full flexion"],["Hips","flexion"],["Calves & hamstrings","lengthen"]]}
+  ];
+  const svg=document.getElementById("flowFig"), box=[-40,-196,235,204];
+  const norm=d=>((d+540)%360)-180;
+  const lerp=(A,B,t)=>{const o={view:"side"};for(const k in A){if(k==="view")continue;o[k]=A[k]+norm(B[k]-A[k])*t;}return o;};
+  const ease=t=>t<.5?2*t*t:1-Math.pow(-2*t+2,2)/2;
+  let i=0,t0=performance.now(),paused=false;
+  const HOLD=1500,MOVE=1300,name=document.getElementById("stepName"),br=document.getElementById("breath"),ro=document.getElementById("readout");
+  function label(k){const s=SEQ[k];name.textContent=s.n;br.textContent=s.b;br.classList.toggle("ex",s.b==="Exhale");ro.innerHTML=s.r.map(([a,b])=>`<dt>${a}</dt><dd>${b}</dd>`).join("");}
+  label(0); drawFigure(svg,SEQ[0].a,{box});
+  const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function frame(now){
+    if(!paused){
+      const el=now-t0;
+      if(el>HOLD){
+        const t=Math.min(1,(el-HOLD)/MOVE), j=(i+1)%SEQ.length;
+        drawFigure(svg,lerp(SEQ[i].a,SEQ[j].a,ease(t)),{box});
+        if(t>=1){i=j;t0=now;label(i);}
+      }
+    }
+    requestAnimationFrame(frame);
+  }
+  if(!reduce) requestAnimationFrame(frame);
+  else{ document.getElementById("pauseBtn").textContent="Next"; }
+  document.getElementById("pauseBtn").addEventListener("click",e=>{
+    if(reduce){i=(i+1)%SEQ.length;label(i);drawFigure(svg,SEQ[i].a,{box});return;}
+    paused=!paused; e.target.textContent=paused?"Play":"Pause"; if(!paused)t0=performance.now()-HOLD-1;
+  });
+})();
+</script>
+</body>
+</html>
