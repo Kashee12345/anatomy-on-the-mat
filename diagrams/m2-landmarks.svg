@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<line x1="248" y1="138" x2="220" y2="94" stroke="#2F7359" stroke-width="24" stroke-linecap="round" fill="none"/>
+<line x1="248" y1="138" x2="220" y2="94" stroke="#D5E9DF" stroke-width="20" stroke-linecap="round" fill="none"/>
+<line x1="220" y1="94" x2="204" y2="46" stroke="#2F7359" stroke-width="20" stroke-linecap="round" fill="none"/>
+<line x1="220" y1="94" x2="204" y2="46" stroke="#D5E9DF" stroke-width="16" stroke-linecap="round" fill="none"/>
+<line x1="272" y1="282" x2="274" y2="364" stroke="#2F7359" stroke-width="40" stroke-linecap="round" fill="none"/>
+<line x1="272" y1="282" x2="274" y2="364" stroke="#D5E9DF" stroke-width="36" stroke-linecap="round" fill="none"/>
+<line x1="274" y1="364" x2="276" y2="438" stroke="#2F7359" stroke-width="30" stroke-linecap="round" fill="none"/>
+<line x1="274" y1="364" x2="276" y2="438" stroke="#D5E9DF" stroke-width="26" stroke-linecap="round" fill="none"/>
+<ellipse cx="272" cy="452" rx="16" ry="8" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="352" y1="138" x2="380" y2="94" stroke="#2F7359" stroke-width="24" stroke-linecap="round" fill="none"/>
+<line x1="352" y1="138" x2="380" y2="94" stroke="#D5E9DF" stroke-width="20" stroke-linecap="round" fill="none"/>
+<line x1="380" y1="94" x2="396" y2="46" stroke="#2F7359" stroke-width="20" stroke-linecap="round" fill="none"/>
+<line x1="380" y1="94" x2="396" y2="46" stroke="#D5E9DF" stroke-width="16" stroke-linecap="round" fill="none"/>
+<line x1="328" y1="282" x2="326" y2="364" stroke="#2F7359" stroke-width="40" stroke-linecap="round" fill="none"/>
+<line x1="328" y1="282" x2="326" y2="364" stroke="#D5E9DF" stroke-width="36" stroke-linecap="round" fill="none"/>
+<line x1="326" y1="364" x2="324" y2="438" stroke="#2F7359" stroke-width="30" stroke-linecap="round" fill="none"/>
+<line x1="326" y1="364" x2="324" y2="438" stroke="#D5E9DF" stroke-width="26" stroke-linecap="round" fill="none"/>
+<ellipse cx="328" cy="452" rx="16" ry="8" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<rect x="291" y="104" width="18" height="24" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<path d="M242,132 C250,126 280,124 300,124 C320,124 350,126 358,132 C360,150 350,160 348,170 C344,188 340,200 340,212 C342,230 354,246 354,266 C354,282 346,294 326,300 L300,296 L274,300 C254,294 246,282 246,266 C246,246 258,230 260,212 C260,200 256,188 252,170 C250,160 240,150 242,132 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<circle cx="300" cy="86" r="24" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<path d="M294,232 C280,214 258,212 256,228 C256,244 264,252 266,262 C270,276 286,282 300,282 C314,282 330,276 334,262 C336,252 344,244 344,228 C342,212 320,214 306,232 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="1.5" fill-opacity="0.7"/>
+<path d="M296,134 C280,130 266,138 248,134" fill="none" stroke="#CBB78C" stroke-width="3"/>
+<path d="M304,134 C320,130 334,138 352,134" fill="none" stroke="#CBB78C" stroke-width="3"/>
+<line x1="488" y1="138" x2="460" y2="94" stroke="#2F7359" stroke-width="24" stroke-linecap="round" fill="none"/>
+<line x1="488" y1="138" x2="460" y2="94" stroke="#D5E9DF" stroke-width="20" stroke-linecap="round" fill="none"/>
+<line x1="460" y1="94" x2="444" y2="46" stroke="#2F7359" stroke-width="20" stroke-linecap="round" fill="none"/>
+<line x1="460" y1="94" x2="444" y2="46" stroke="#D5E9DF" stroke-width="16" stroke-linecap="round" fill="none"/>
+<line x1="512" y1="282" x2="514" y2="364" stroke="#2F7359" stroke-width="40" stroke-linecap="round" fill="none"/>
+<line x1="512" y1="282" x2="514" y2="364" stroke="#D5E9DF" stroke-width="36" stroke-linecap="round" fill="none"/>
+<line x1="514" y1="364" x2="516" y2="438" stroke="#2F7359" stroke-width="30" stroke-linecap="round" fill="none"/>
+<line x1="514" y1="364" x2="516" y2="438" stroke="#D5E9DF" stroke-width="26" stroke-linecap="round" fill="none"/>
+<ellipse cx="512" cy="452" rx="16" ry="8" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="592" y1="138" x2="620" y2="94" stroke="#2F7359" stroke-width="24" stroke-linecap="round" fill="none"/>
+<line x1="592" y1="138" x2="620" y2="94" stroke="#D5E9DF" stroke-width="20" stroke-linecap="round" fill="none"/>
+<line x1="620" y1="94" x2="636" y2="46" stroke="#2F7359" stroke-width="20" stroke-linecap="round" fill="none"/>
+<line x1="620" y1="94" x2="636" y2="46" stroke="#D5E9DF" stroke-width="16" stroke-linecap="round" fill="none"/>
+<line x1="568" y1="282" x2="566" y2="364" stroke="#2F7359" stroke-width="40" stroke-linecap="round" fill="none"/>
+<line x1="568" y1="282" x2="566" y2="364" stroke="#D5E9DF" stroke-width="36" stroke-linecap="round" fill="none"/>
+<line x1="566" y1="364" x2="564" y2="438" stroke="#2F7359" stroke-width="30" stroke-linecap="round" fill="none"/>
+<line x1="566" y1="364" x2="564" y2="438" stroke="#D5E9DF" stroke-width="26" stroke-linecap="round" fill="none"/>
+<ellipse cx="568" cy="452" rx="16" ry="8" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<rect x="531" y="104" width="18" height="24" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<path d="M482,132 C490,126 520,124 540,124 C560,124 590,126 598,132 C600,150 590,160 588,170 C584,188 580,200 580,212 C582,230 594,246 594,266 C594,282 586,294 566,300 L540,296 L514,300 C494,294 486,282 486,266 C486,246 498,230 500,212 C500,200 496,188 492,170 C490,160 480,150 482,132 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<circle cx="540" cy="86" r="24" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<path d="M534,232 C520,214 498,212 496,228 C496,244 504,252 506,262 C510,276 526,282 540,282 C554,282 570,276 574,262 C576,252 584,244 584,228 C582,212 560,214 546,232 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="1.5" fill-opacity="0.7"/>
+<line x1="540" y1="112" x2="540" y2="232" stroke="#CBB78C" stroke-width="3" stroke-dasharray="4 4" fill="none"/>
+<text x="300" y="486" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#16303A" text-anchor="middle" font-weight="bold">Front</text>
+<text x="540" y="486" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#16303A" text-anchor="middle" font-weight="bold">Back</text>
+<text x="206" y="146" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Acromion</text>
+<line x1="212" y1="140" x2="246" y2="134" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="206" y="220" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Iliac crest</text>
+<line x1="212" y1="214" x2="258" y2="222" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="206" y="260" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">ASIS</text>
+<line x1="212" y1="254" x2="268" y2="244" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="206" y="300" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Greater trochanter</text>
+<line x1="212" y1="294" x2="248" y2="276" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="206" y="414" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Medial malleolus</text>
+<line x1="212" y1="408" x2="284" y2="436" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="206" y="468" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Lateral malleolus</text>
+<line x1="212" y1="462" x2="264" y2="444" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="246" cy="134" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="258" cy="222" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="268" cy="244" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="248" cy="276" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="284" cy="436" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="264" cy="444" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="526" cy="250" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+<text x="654" y="110" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">C7</text>
+<line x1="648" y1="104" x2="540" y2="116" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="654" y="164" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Acromion</text>
+<line x1="648" y1="158" x2="594" y2="134" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="654" y="220" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Iliac crest</text>
+<line x1="648" y1="214" x2="582" y2="222" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="654" y="272" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">PSIS (dimples)</text>
+<line x1="648" y1="266" x2="554" y2="250" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="540" cy="116" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="594" cy="134" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="582" cy="222" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="554" cy="250" r="7" fill="#9A5B06" stroke="#F9FBFA" stroke-width="2"/>
+</svg>

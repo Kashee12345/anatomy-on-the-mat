@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, Helvetica, sans-serif">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<text x="400" y="46" font-size="26" font-weight="bold" fill="#16303A" text-anchor="middle">Muscle roles in bending the elbow</text>
+<!-- bones -->
+<line x1="330" y1="115" x2="330" y2="335" stroke="#CBB78C" stroke-width="22" stroke-linecap="round"/>
+<line x1="330" y1="345" x2="560" y2="222" stroke="#CBB78C" stroke-width="18" stroke-linecap="round"/>
+<circle cx="330" cy="110" r="22" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<circle cx="578" cy="212" r="16" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<!-- rotator cuff stabilizer -->
+<circle cx="330" cy="110" r="32" fill="none" stroke="#2F7359" stroke-width="7" stroke-dasharray="14 6"/>
+<!-- brachioradialis synergist -->
+<path d="M346,255 C372,262 400,300 440,285 C480,268 510,240 548,222 L552,232 C512,252 486,284 442,300 C398,316 366,282 342,272 Z" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2.5"/>
+<!-- triceps antagonist -->
+<path d="M318,140 C262,190 262,300 314,352 L326,344 C298,292 300,196 326,150 Z" fill="#F3D9DE" stroke="#B3304C" stroke-width="2.5" stroke-dasharray="7 5"/>
+<!-- biceps agonist -->
+<path d="M343,138 C408,178 410,280 362,330 L350,324 C380,272 372,190 336,146 Z" fill="#B3304C" stroke="#16303A" stroke-width="2"/>
+<!-- motion arrow -->
+<path d="M622,300 C650,262 650,212 628,178" fill="none" stroke="#16303A" stroke-width="3"/>
+<polygon points="620,166 622,186 637,178" fill="#16303A"/>
+<text x="664" y="236" font-size="18" fill="#16303A">flexion</text>
+<!-- labels -->
+<text x="440" y="130" font-size="20" font-weight="bold" fill="#B3304C">Biceps brachii</text>
+<text x="440" y="154" font-size="18" fill="#16303A">agonist: shortens to bend</text>
+<line x1="436" y1="140" x2="398" y2="190" stroke="#16303A" stroke-width="1.5"/>
+<text x="440" y="370" font-size="20" font-weight="bold" fill="#9A5B06">Brachioradialis</text>
+<text x="440" y="394" font-size="18" fill="#16303A">synergist: helps bend</text>
+<line x1="470" y1="350" x2="470" y2="286" stroke="#16303A" stroke-width="1.5"/>
+<text x="30" y="235" font-size="20" font-weight="bold" fill="#B3304C">Triceps brachii</text>
+<text x="30" y="259" font-size="18" fill="#16303A">antagonist: lengthens</text>
+<line x1="220" y1="245" x2="270" y2="245" stroke="#16303A" stroke-width="1.5"/>
+<text x="30" y="100" font-size="20" font-weight="bold" fill="#2F7359">Rotator cuff</text>
+<text x="30" y="124" font-size="18" fill="#16303A">stabilizer: steadies</text>
+<text x="30" y="146" font-size="18" fill="#16303A">the shoulder</text>
+<line x1="156" y1="94" x2="292" y2="106" stroke="#16303A" stroke-width="1.5"/>
+<text x="400" y="450" font-size="18" fill="#55707A" text-anchor="middle">Roles belong to the movement, not the muscle. Lower the hand slowly</text>
+<text x="400" y="474" font-size="18" fill="#55707A" text-anchor="middle">and the biceps is still the agonist, now working eccentrically.</text>
+</svg>

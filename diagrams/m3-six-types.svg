@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, Helvetica, sans-serif">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<defs>
+<marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#B3304C"/></marker>
+</defs>
+<line x1="270" y1="25" x2="270" y2="475" stroke="#C6D4CF" stroke-width="2" fill="none"/>
+<line x1="530" y1="25" x2="530" y2="475" stroke="#C6D4CF" stroke-width="2" fill="none"/>
+<line x1="25" y1="250" x2="775" y2="250" stroke="#C6D4CF" stroke-width="2" fill="none"/>
+
+<!-- 1 HINGE (cx 140) -->
+<path d="M95,145 L95,112 Q95,102 105,102 L113,102 A27,27 0 0 0 167,102 L175,102 Q185,102 185,112 L185,145 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<rect x="126" y="38" width="28" height="62" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<circle cx="140" cy="102" r="22" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<rect x="127.5" y="70" width="25" height="30" fill="#F1EADA" stroke="none"/>
+<path d="M200,95 A60,60 0 0 0 175,48" fill="none" stroke="#B3304C" stroke-width="3" marker-start="url(#mv)" marker-end="url(#mv)"/>
+<text x="140" y="180" font-size="22" font-weight="bold" fill="#16303A" text-anchor="middle">Hinge</text>
+<text x="140" y="205" font-size="18" fill="#55707A" text-anchor="middle">1 axis: bend, straighten</text>
+<text x="140" y="229" font-size="18" fill="#16303A" text-anchor="middle">e.g. elbow, ankle</text>
+
+<!-- 2 PIVOT (cx 400) -->
+<circle cx="400" cy="92" r="46" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<circle cx="400" cy="92" r="28" fill="#F9FBFA" stroke="#16303A" stroke-width="2"/>
+<circle cx="400" cy="92" r="19" fill="#CBB78C" stroke="#16303A" stroke-width="2"/>
+<path d="M340,60 A68,68 0 0 1 460,60" fill="none" stroke="#B3304C" stroke-width="3" marker-start="url(#mv)" marker-end="url(#mv)"/>
+<text x="400" y="180" font-size="22" font-weight="bold" fill="#16303A" text-anchor="middle">Pivot</text>
+<text x="400" y="205" font-size="18" fill="#55707A" text-anchor="middle">1 axis: rotation</text>
+<text x="400" y="229" font-size="18" fill="#16303A" text-anchor="middle">e.g. C1 on C2, forearm</text>
+
+<!-- 3 CONDYLOID (cx 660) -->
+<path d="M600,145 L600,112 Q600,104 608,104 L615,104 A45,24 0 0 0 705,104 L712,104 Q720,104 720,112 L720,145 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<rect x="638" y="38" width="44" height="50" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<ellipse cx="660" cy="101" rx="40" ry="20" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<rect x="639.5" y="70" width="41" height="25" fill="#F1EADA" stroke="none"/>
+<line x1="560" y1="72" x2="610" y2="72" stroke="#B3304C" stroke-width="3" marker-start="url(#mv)" marker-end="url(#mv)"/>
+<line x1="740" y1="45" x2="740" y2="100" stroke="#B3304C" stroke-width="3" marker-start="url(#mv)" marker-end="url(#mv)"/>
+<text x="660" y="180" font-size="22" font-weight="bold" fill="#16303A" text-anchor="middle">Condyloid</text>
+<text x="660" y="205" font-size="18" fill="#55707A" text-anchor="middle">2 axes, no true rotation</text>
+<text x="660" y="229" font-size="18" fill="#16303A" text-anchor="middle">e.g. wrist, knuckles</text>
+
+<!-- 4 SADDLE (cx 140) -->
+<path d="M90,330 Q115,300 140,318 Q165,336 190,306 L190,280 L90,280 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<path d="M90,340 Q115,312 140,330 Q165,348 190,318 L190,390 L90,390 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<line x1="60" y1="290" x2="60" y2="370" stroke="#B3304C" stroke-width="3" marker-start="url(#mv)" marker-end="url(#mv)"/>
+<line x1="205" y1="335" x2="250" y2="335" stroke="#B3304C" stroke-width="3" marker-start="url(#mv)" marker-end="url(#mv)"/>
+<text x="140" y="432" font-size="22" font-weight="bold" fill="#16303A" text-anchor="middle">Saddle</text>
+<text x="140" y="456" font-size="18" fill="#55707A" text-anchor="middle">2 axes, plus opposition</text>
+<text x="140" y="478" font-size="18" fill="#16303A" text-anchor="middle">e.g. base of thumb</text>
+
+<!-- 5 PLANE (cx 400) -->
+<rect x="340" y="290" width="110" height="40" rx="6" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<rect x="350" y="336" width="110" height="40" rx="6" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<line x1="345" y1="333" x2="455" y2="333" stroke="#2F7359" stroke-width="3" fill="none"/>
+<line x1="470" y1="310" x2="510" y2="310" stroke="#B3304C" stroke-width="3" marker-start="url(#mv)" marker-end="url(#mv)"/>
+<text x="400" y="432" font-size="22" font-weight="bold" fill="#16303A" text-anchor="middle">Plane (gliding)</text>
+<text x="400" y="456" font-size="18" fill="#55707A" text-anchor="middle">Small slides and glides</text>
+<text x="400" y="478" font-size="18" fill="#16303A" text-anchor="middle">e.g. carpals, spinal facets</text>
+
+<!-- 6 BALL AND SOCKET (cx 660) -->
+<path d="M596,265 L724,265 L724,335 L702,335 A42,42 0 0 0 618,335 L596,335 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<line x1="660" y1="345" x2="660" y2="395" stroke="#16303A" stroke-width="30" fill="none"/>
+<line x1="660" y1="345" x2="660" y2="396" stroke="#F1EADA" stroke-width="26" fill="none"/>
+<circle cx="660" cy="333" r="38" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<rect x="648" y="366" width="24" height="10" fill="#F1EADA" stroke="none"/>
+<path d="M600,390 A70,70 0 0 1 590,340" fill="none" stroke="#B3304C" stroke-width="3" marker-end="url(#mv)"/>
+<path d="M720,390 A70,70 0 0 0 730,340" fill="none" stroke="#B3304C" stroke-width="3" marker-end="url(#mv)"/>
+<text x="660" y="432" font-size="22" font-weight="bold" fill="#16303A" text-anchor="middle">Ball-and-socket</text>
+<text x="660" y="456" font-size="18" fill="#55707A" text-anchor="middle">3 axes, incl. rotation</text>
+<text x="660" y="478" font-size="18" fill="#16303A" text-anchor="middle">e.g. hip, shoulder</text>
+</svg>

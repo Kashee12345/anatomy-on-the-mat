@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, Helvetica, sans-serif">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<text x="400" y="42" font-size="26" font-weight="bold" fill="#16303A" text-anchor="middle">Spindle, stretch reflex and the GTO</text>
+<!-- spinal cord -->
+<ellipse cx="660" cy="275" rx="110" ry="130" fill="#FFFFFF" stroke="#55707A" stroke-width="2.5"/>
+<text x="660" y="132" font-size="18" fill="#55707A" text-anchor="middle">Spinal cord</text>
+<!-- muscle A (stretched) -->
+<rect x="40" y="143" width="52" height="14" rx="5" fill="#F1EADA" stroke="#CBB78C" stroke-width="2"/>
+<path d="M90,150 C140,112 320,112 370,150 C320,188 140,188 90,150 Z" fill="#F3D9DE" stroke="#B3304C" stroke-width="3"/>
+<text x="200" y="157" font-size="18" font-weight="bold" fill="#16303A" text-anchor="middle">Stretched muscle</text>
+<ellipse cx="300" cy="150" rx="22" ry="8" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="292" y1="143" x2="292" y2="157" stroke="#2F7359" stroke-width="1.5"/>
+<line x1="300" y1="142" x2="300" y2="158" stroke="#2F7359" stroke-width="1.5"/>
+<line x1="308" y1="143" x2="308" y2="157" stroke="#2F7359" stroke-width="1.5"/>
+<!-- GTO -->
+<ellipse cx="80" cy="150" rx="9" ry="12" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2.5"/>
+<text x="24" y="100" font-size="18" fill="#9A5B06">Golgi tendon organ</text>
+<line x1="70" y1="106" x2="78" y2="136" stroke="#9A5B06" stroke-width="1.5"/>
+<text x="326" y="212" font-size="18" fill="#2F7359" text-anchor="end">Muscle spindle</text>
+<line x1="300" y1="159" x2="300" y2="194" stroke="#2F7359" stroke-width="1.5"/>
+<!-- muscle B (opposing) -->
+<path d="M90,405 C140,367 320,367 370,405 C320,443 140,443 90,405 Z" fill="#F3D9DE" stroke="#B3304C" stroke-width="3" stroke-dasharray="7 5"/>
+<text x="220" y="412" font-size="18" font-weight="bold" fill="#16303A" text-anchor="middle">Opposing muscle</text>
+<!-- Ia afferent -->
+<polyline points="300,142 300,100 720,100 720,288" fill="none" stroke="#2F7359" stroke-width="3.5"/>
+<line x1="720" y1="200" x2="676" y2="200" stroke="#2F7359" stroke-width="3.5"/>
+<circle cx="720" cy="100" r="5" fill="#2F7359"/>
+<text x="510" y="90" font-size="18" fill="#2F7359" text-anchor="middle">Ia sensory nerve: stretch!</text>
+<!-- motor neuron A -->
+<circle cx="662" cy="200" r="13" fill="#B3304C"/>
+<polyline points="649,200 340,200 340,184" fill="none" stroke="#B3304C" stroke-width="3.5"/>
+<polygon points="340,174 333,188 347,188" fill="#B3304C"/>
+<text x="460" y="192" font-size="18" fill="#B3304C" text-anchor="middle">+ contract</text>
+<!-- interneuron (reciprocal) -->
+<circle cx="720" cy="300" r="11" fill="#9A5B06"/>
+<line x1="711" y1="307" x2="664" y2="340" stroke="#9A5B06" stroke-width="3"/>
+<line x1="659" y1="332" x2="668" y2="346" stroke="#9A5B06" stroke-width="3"/>
+<!-- motor neuron B -->
+<circle cx="650" cy="350" r="13" fill="#F3D9DE" stroke="#B3304C" stroke-width="2.5"/>
+<polyline points="637,350 270,350 270,370" fill="none" stroke="#B3304C" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="440" y="340" font-size="18" fill="#B3304C" text-anchor="middle">relaxes: reciprocal inhibition</text>
+<!-- Ib afferent and GTO interneuron -->
+<polyline points="80,162 80,270 578,270" fill="none" stroke="#2F7359" stroke-width="3"/>
+<circle cx="590" cy="270" r="11" fill="#9A5B06"/>
+<line x1="597" y1="262" x2="648" y2="212" stroke="#9A5B06" stroke-width="3"/>
+<line x1="642" y1="206" x2="654" y2="218" stroke="#9A5B06" stroke-width="3"/>
+<text x="330" y="260" font-size="18" fill="#2F7359" text-anchor="middle">Ib sensory nerve: tension</text>
+<!-- legend -->
+<line x1="40" y1="470" x2="76" y2="470" stroke="#2F7359" stroke-width="3.5"/>
+<text x="84" y="476" font-size="18" fill="#16303A">sensory</text>
+<line x1="190" y1="470" x2="226" y2="470" stroke="#B3304C" stroke-width="3.5"/>
+<text x="234" y="476" font-size="18" fill="#16303A">motor</text>
+<circle cx="330" cy="470" r="9" fill="#9A5B06"/>
+<text x="346" y="476" font-size="18" fill="#16303A">inhibitory interneuron</text>
+<line x1="560" y1="462" x2="560" y2="478" stroke="#9A5B06" stroke-width="3"/>
+<line x1="540" y1="470" x2="560" y2="470" stroke="#9A5B06" stroke-width="3"/>
+<text x="572" y="476" font-size="18" fill="#16303A">inhibits</text>
+</svg>

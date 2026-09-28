@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<path d="M372,150 C330,100 250,98 232,148 C226,172 244,194 262,206 C268,216 270,224 278,232 C288,246 282,262 288,280 C294,300 298,330 312,362 C318,382 342,386 352,370 C360,354 374,346 394,344 L394,302 C372,298 350,290 338,272 C330,256 348,230 368,206 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<path d="M428.0,150 C470.0,100 550.0,98 568.0,148 C574.0,172 556.0,194 538.0,206 C532.0,216 530.0,224 522.0,232 C512.0,246 518.0,262 512.0,280 C506.0,300 502.0,330 488.0,362 C482.0,382 458.0,386 448.0,370 C440.0,354 426.0,346 406.0,344 L406.0,302 C428.0,298 450.0,290 462.0,272 C470.0,256 452.0,230 432.0,206 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<path d="M362,160 C330,128 272,128 258,160 C252,178 266,192 282,200 C300,208 330,206 352,196" fill="none" stroke="#CBB78C" stroke-width="1.5" stroke-dasharray="4 4"/>
+<path d="M438.0,160 C470.0,128 528.0,128 542.0,160 C548.0,178 534.0,192 518.0,200 C500.0,208 470.0,206 448.0,196" fill="none" stroke="#CBB78C" stroke-width="1.5" stroke-dasharray="4 4"/>
+<ellipse cx="338" cy="328" rx="16" ry="24" transform="rotate(-20 338 328)" fill="#F9FBFA" stroke="#CBB78C" stroke-width="2"/>
+<ellipse cx="462" cy="328" rx="16" ry="24" transform="rotate(20 462 328)" fill="#F9FBFA" stroke="#CBB78C" stroke-width="2"/>
+<path d="M372,150 L428,150 L432,206 C420,230 412,250 408,262 L392,262 C388,250 380,230 368,206 Z" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2.5"/>
+<circle cx="388" cy="172" r="3.5" fill="#F9FBFA" stroke="#9A5B06" stroke-width="1.5"/>
+<circle cx="412" cy="172" r="3.5" fill="#F9FBFA" stroke="#9A5B06" stroke-width="1.5"/>
+<circle cx="388" cy="196" r="3.5" fill="#F9FBFA" stroke="#9A5B06" stroke-width="1.5"/>
+<circle cx="412" cy="196" r="3.5" fill="#F9FBFA" stroke="#9A5B06" stroke-width="1.5"/>
+<circle cx="388" cy="220" r="3.5" fill="#F9FBFA" stroke="#9A5B06" stroke-width="1.5"/>
+<circle cx="412" cy="220" r="3.5" fill="#F9FBFA" stroke="#9A5B06" stroke-width="1.5"/>
+<circle cx="388" cy="242" r="3.5" fill="#F9FBFA" stroke="#9A5B06" stroke-width="1.5"/>
+<circle cx="412" cy="242" r="3.5" fill="#F9FBFA" stroke="#9A5B06" stroke-width="1.5"/>
+<path d="M393,264 L407,264 L403,288 L397,288 Z" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="376" y="104" width="48" height="36" rx="6" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<text x="400" y="128" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2F7359" text-anchor="middle" font-weight="bold">L5</text>
+<rect x="394" y="302" width="12" height="42" rx="3" fill="#D5E9DF" stroke="#2F7359" stroke-width="1.5"/>
+<path d="M300,262 C320,262 322,292 306,300 C296,306 286,306 272,316 C284,330 290,344 284,356 C276,390 276,430 280,470 L244,470 C246,430 246,380 238,340 C226,326 226,300 240,292 C254,286 276,286 284,276 C286,268 292,262 300,262 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<path d="M500.0,262 C480.0,262 478.0,292 494.0,300 C504.0,306 514.0,306 528.0,316 C516.0,330 510.0,344 516.0,356 C524.0,390 524.0,430 520.0,470 L556.0,470 C554.0,430 554.0,380 562.0,340 C574.0,326 574.0,300 560.0,292 C546.0,286 524.0,286 516.0,276 C514.0,268 508.0,262 500.0,262 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<circle cx="300" cy="283" r="20" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<circle cx="500" cy="283" r="20" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<text x="200" y="96" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Iliac crest</text>
+<line x1="206" y1="90" x2="262" y2="112" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="262" cy="112" r="3.5" fill="#16303A"/>
+<text x="200" y="212" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end" font-weight="bold">ASIS</text>
+<text x="200" y="234" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="end">(front hip point)</text>
+<line x1="206" y1="206" x2="262" y2="206" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="262" cy="206" r="3.5" fill="#16303A"/>
+<text x="200" y="312" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Greater trochanter</text>
+<line x1="206" y1="306" x2="234" y2="306" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="234" cy="306" r="3.5" fill="#16303A"/>
+<text x="200" y="410" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Femur</text>
+<line x1="206" y1="404" x2="256" y2="404" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="256" cy="404" r="3.5" fill="#16303A"/>
+<text x="200" y="283" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Hip joint</text>
+<line x1="206" y1="277" x2="296" y2="280" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="296" cy="280" r="3.5" fill="#16303A"/>
+<text x="596" y="96" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Sacroiliac joint</text>
+<line x1="590" y1="90" x2="430" y2="176" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="430" cy="176" r="3.5" fill="#16303A"/>
+<text x="596" y="150" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Sacrum</text>
+<line x1="590" y1="144" x2="420" y2="184" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="420" cy="184" r="3.5" fill="#16303A"/>
+<text x="596" y="262" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Pubic symphysis</text>
+<line x1="590" y1="256" x2="406" y2="320" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="406" cy="320" r="3.5" fill="#16303A"/>
+<text x="596" y="330" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Obturator foramen</text>
+<line x1="590" y1="324" x2="470" y2="330" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="470" cy="330" r="3.5" fill="#16303A"/>
+<text x="596" y="384" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start" font-weight="bold">Ischial tuberosity</text>
+<text x="596" y="406" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">(sitting bone)</text>
+<line x1="590" y1="378" x2="452" y2="376" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="452" cy="376" r="3.5" fill="#16303A"/>
+<text x="24" y="470" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Front view</text>
+</svg>

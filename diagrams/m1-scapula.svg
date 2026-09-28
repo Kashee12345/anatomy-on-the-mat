@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<text x="400" y="44" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#16303A" text-anchor="middle" font-weight="bold">Shoulder blade movements, seen from behind</text>
+<line x1="270.0" y1="78.0" x2="270.0" y2="470.0" stroke="#C6D4CF" stroke-width="2" stroke-linecap="round" fill="none"/>
+<line x1="530.0" y1="78.0" x2="530.0" y2="470.0" stroke="#C6D4CF" stroke-width="2" stroke-linecap="round" fill="none"/>
+<ellipse cx="145" cy="245" rx="102" ry="128" fill="none" stroke="#C6D4CF" stroke-width="3"/>
+<rect x="137" y="108" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="137" y="134" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="137" y="160" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="137" y="186" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="137" y="212" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="137" y="238" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="137" y="264" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="137" y="290" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="137" y="316" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<path d="M117.0,173.0 L59.0,183.0 Q79.0,233.0 111.0,283.0 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="3" stroke-linejoin="round"/>
+<path d="M173.0,173.0 L231.0,183.0 Q211.0,233.0 179.0,283.0 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="3" stroke-linejoin="round"/>
+<line x1="87.0" y1="152.0" x2="87.0" y2="112.0" stroke="#B3304C" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="87.0,104.0 93.0,115.0 81.0,115.0" fill="#B3304C" stroke="none"/>
+<line x1="87.0" y1="292.0" x2="87.0" y2="332.0" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="87.0,340.0 81.0,329.0 93.0,329.0" fill="#2F7359" stroke="none"/>
+<line x1="203.0" y1="152.0" x2="203.0" y2="112.0" stroke="#B3304C" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="203.0,104.0 209.1,115.0 196.9,115.0" fill="#B3304C" stroke="none"/>
+<line x1="203.0" y1="292.0" x2="203.0" y2="332.0" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="203.0,340.0 196.9,329.0 209.1,329.0" fill="#2F7359" stroke="none"/>
+<text x="145" y="386" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#B3304C" text-anchor="middle" font-weight="bold">Elevation</text>
+<text x="145" y="412" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2F7359" text-anchor="middle" font-weight="bold">Depression</text>
+<text x="145" y="444" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="middle">Shrug up, slide down;</text>
+<text x="145" y="470" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="middle">soften them in Chair</text>
+<ellipse cx="400" cy="245" rx="102" ry="128" fill="none" stroke="#C6D4CF" stroke-width="3"/>
+<rect x="392" y="108" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="392" y="134" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="392" y="160" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="392" y="186" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="392" y="212" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="392" y="238" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="392" y="264" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="392" y="290" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="392" y="316" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<path d="M372.0,173.0 L314.0,183.0 Q334.0,233.0 366.0,283.0 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="3" stroke-linejoin="round"/>
+<path d="M428.0,173.0 L486.0,183.0 Q466.0,233.0 434.0,283.0 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="3" stroke-linejoin="round"/>
+<line x1="316.0" y1="232.0" x2="294.0" y2="232.0" stroke="#B3304C" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="286.0,232.0 297.0,225.9 297.0,238.1" fill="#B3304C" stroke="none"/>
+<line x1="328.0" y1="272.0" x2="352.0" y2="272.0" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="360.0,272.0 349.0,278.1 349.0,265.9" fill="#2F7359" stroke="none"/>
+<line x1="484.0" y1="232.0" x2="506.0" y2="232.0" stroke="#B3304C" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="514.0,232.0 503.0,238.1 503.0,225.9" fill="#B3304C" stroke="none"/>
+<line x1="472.0" y1="272.0" x2="448.0" y2="272.0" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="440.0,272.0 451.0,265.9 451.0,278.1" fill="#2F7359" stroke="none"/>
+<text x="400" y="386" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#B3304C" text-anchor="middle" font-weight="bold">Protraction</text>
+<text x="400" y="412" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2F7359" text-anchor="middle" font-weight="bold">Retraction</text>
+<text x="400" y="444" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="middle">Push away in Plank,</text>
+<text x="400" y="470" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="middle">draw back in Cobra</text>
+<ellipse cx="655" cy="245" rx="102" ry="128" fill="none" stroke="#C6D4CF" stroke-width="3"/>
+<rect x="647" y="108" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="647" y="134" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="647" y="160" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="647" y="186" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="647" y="212" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="647" y="238" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="647" y="264" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="647" y="290" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<rect x="647" y="316" width="16" height="18" rx="4" fill="#CBB78C" stroke="none"/>
+<path d="M627.0,173.0 L569.0,183.0 Q589.0,233.0 621.0,283.0 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="3" stroke-linejoin="round"/>
+<path d="M639.1,184.6 L581.1,174.2 Q582.5,230.1 595.8,286.0 Z" fill="none" stroke="#B3304C" stroke-width="3" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<path d="M683.0,173.0 L741.0,183.0 Q721.0,233.0 689.0,283.0 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="3" stroke-linejoin="round"/>
+<path d="M670.9,184.6 L728.9,174.2 Q727.5,230.1 714.2,286.0 Z" fill="none" stroke="#B3304C" stroke-width="3" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<path d="M620.8,296.4 A86,86 0 0 1 580.2,296.7" fill="none" stroke="#B3304C" stroke-width="2.5" stroke-linecap="round"/><polygon points="573.4,294.8 584.6,292.7 581.2,303.1" fill="#B3304C" stroke="none"/>
+<path d="M574.8,313.9 A104,104 0 0 0 618.3,315.4" fill="none" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round"/><polygon points="625.2,313.9 616.8,321.7 614.1,311.0" fill="#2F7359" stroke="none"/>
+<path d="M689.2,296.4 A86,86 0 0 0 729.8,296.7" fill="none" stroke="#B3304C" stroke-width="2.5" stroke-linecap="round"/><polygon points="736.6,294.8 728.8,303.1 725.4,292.7" fill="#B3304C" stroke="none"/>
+<path d="M735.2,313.9 A104,104 0 0 1 691.7,315.4" fill="none" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round"/><polygon points="684.8,313.9 695.9,311.0 693.2,321.7" fill="#2F7359" stroke="none"/>
+<text x="655" y="386" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#B3304C" text-anchor="middle" font-weight="bold">Upward rotation</text>
+<text x="655" y="412" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2F7359" text-anchor="middle" font-weight="bold">Downward rotation</text>
+<text x="655" y="444" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="middle">Arms overhead turn</text>
+<text x="655" y="470" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="middle">the blades upward</text>
+</svg>

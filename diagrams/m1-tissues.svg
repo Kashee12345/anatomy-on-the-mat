@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<text x="400" y="42" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#16303A" text-anchor="middle" font-weight="bold">Six tissues every yoga teacher meets</text>
+<rect x="25" y="66" width="240" height="195" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<path d="M50,110 L110,110 L110,118 L50,118 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<circle cx="46" cy="105" r="10" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<circle cx="46" cy="123" r="10" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<circle cx="114" cy="105" r="10" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<circle cx="114" cy="123" r="10" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<rect x="50" y="108" width="60" height="12" fill="#F1EADA" stroke="none"/>
+<text x="133" y="122" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#16303A" text-anchor="start" font-weight="bold">Bone</text>
+<text x="45" y="184" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Rigid levers and frame</text>
+<text x="45" y="211" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Good blood supply</text>
+<text x="45" y="238" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Remodels with load</text>
+<rect x="280" y="66" width="240" height="195" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<path d="M313,80 L313,104 Q335,116 357,104 L357,80 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<path d="M313,104 Q335,116 357,104 Q335,124 313,104 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2.5"/>
+<path d="M313,148 L313,130 Q335,122 357,130 L357,148 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<path d="M313,130 Q335,122 357,130 Q335,116 313,130 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2.5"/>
+<text x="388" y="122" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#16303A" text-anchor="start" font-weight="bold">Cartilage</text>
+<text x="300" y="184" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Smooth joint surfaces</text>
+<text x="300" y="211" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">No blood vessels</text>
+<text x="300" y="238" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Heals very slowly</text>
+<rect x="535" y="66" width="240" height="195" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<rect x="572" y="78" width="36" height="28" rx="10" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<rect x="572" y="122" width="36" height="28" rx="10" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<rect x="571" y="94" width="10" height="40" rx="4" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2.5"/>
+<rect x="599" y="94" width="10" height="40" rx="4" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2.5"/>
+<text x="643" y="122" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#16303A" text-anchor="start" font-weight="bold">Ligament</text>
+<text x="555" y="184" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Joins bone to bone</text>
+<text x="555" y="211" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Guides joint motion</text>
+<text x="555" y="238" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Slow to heal</text>
+<rect x="25" y="273" width="240" height="195" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<path d="M42,321 Q60,301 80,317 L98,318 L98,324 L80,325 Q60,341 42,321 Z" fill="#F3D9DE" stroke="#B3304C" stroke-width="2.5"/>
+<rect x="80" y="317" width="22" height="8" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="102" y="301" width="16" height="40" rx="6" fill="#F1EADA" stroke="#CBB78C" stroke-width="3"/>
+<text x="133" y="329" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#16303A" text-anchor="start" font-weight="bold">Tendon</text>
+<text x="45" y="391" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Joins muscle to bone</text>
+<text x="45" y="418" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Transmits the pull</text>
+<text x="45" y="445" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Adapts over months</text>
+<rect x="280" y="273" width="240" height="195" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<path d="M299,294 Q317,286 335,294 T371,294" fill="none" stroke="#2F7359" stroke-width="3" stroke-linecap="round"/>
+<path d="M299,312 Q317,304 335,312 T371,312" fill="none" stroke="#2F7359" stroke-width="3" stroke-linecap="round"/>
+<path d="M299,330 Q317,322 335,330 T371,330" fill="none" stroke="#2F7359" stroke-width="3" stroke-linecap="round"/>
+<path d="M299,348 Q317,340 335,348 T371,348" fill="none" stroke="#2F7359" stroke-width="3" stroke-linecap="round"/>
+<line x1="307.0" y1="291.0" x2="319.0" y2="351.0" stroke="#2F7359" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+<line x1="333.0" y1="291.0" x2="345.0" y2="351.0" stroke="#2F7359" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+<line x1="357.0" y1="291.0" x2="369.0" y2="351.0" stroke="#2F7359" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+<text x="388" y="329" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#16303A" text-anchor="start" font-weight="bold">Fascia</text>
+<text x="300" y="391" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Wraps and links parts</text>
+<text x="300" y="418" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Layers glide on layers</text>
+<text x="300" y="445" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Big claims, thin data</text>
+<rect x="535" y="273" width="240" height="195" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<path d="M550,321 Q590,287 630,321 Q590,355 550,321 Z" fill="#F3D9DE" stroke="#B3304C" stroke-width="3"/>
+<line x1="572.0" y1="309.0" x2="572.0" y2="333.0" stroke="#B3304C" stroke-width="2" stroke-linecap="round" fill="none"/>
+<line x1="584.0" y1="309.0" x2="584.0" y2="333.0" stroke="#B3304C" stroke-width="2" stroke-linecap="round" fill="none"/>
+<line x1="596.0" y1="309.0" x2="596.0" y2="333.0" stroke="#B3304C" stroke-width="2" stroke-linecap="round" fill="none"/>
+<line x1="608.0" y1="309.0" x2="608.0" y2="333.0" stroke="#B3304C" stroke-width="2" stroke-linecap="round" fill="none"/>
+<text x="643" y="329" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#16303A" text-anchor="start" font-weight="bold">Muscle</text>
+<text x="555" y="391" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Contracts to move us</text>
+<text x="555" y="418" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Rich blood supply</text>
+<text x="555" y="445" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Adapts in weeks</text>
+</svg>

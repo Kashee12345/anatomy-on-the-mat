@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, Helvetica, sans-serif">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<line x1="400" y1="30" x2="400" y2="420" stroke="#C6D4CF" stroke-width="2" fill="none"/>
+
+<!-- HIP -->
+<text x="215" y="55" font-size="26" font-weight="bold" fill="#16303A" text-anchor="middle">Hip</text>
+<!-- femur -->
+<line x1="215" y1="235" x2="275" y2="305" stroke="#16303A" stroke-width="34" stroke-linecap="round" fill="none"/>
+<line x1="272" y1="298" x2="282" y2="410" stroke="#16303A" stroke-width="38" stroke-linecap="round" fill="none"/>
+<line x1="215" y1="235" x2="275" y2="305" stroke="#F1EADA" stroke-width="30" stroke-linecap="round" fill="none"/>
+<line x1="272" y1="298" x2="282" y2="410" stroke="#F1EADA" stroke-width="34" stroke-linecap="round" fill="none"/>
+<circle cx="215" cy="225" r="48" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<!-- pelvis with deep socket -->
+<path d="M110,105 L320,105 L320,242 L265,242 A52,52 0 1 0 165,242 L110,242 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<text x="140" y="140" font-size="18" fill="#55707A" text-anchor="middle">Pelvis</text>
+<!-- ligaments -->
+<line x1="150" y1="240" x2="252" y2="325" stroke="#55707A" stroke-width="11" stroke-linecap="round" fill="none"/>
+<line x1="150" y1="240" x2="252" y2="325" stroke="#C6D4CF" stroke-width="7" stroke-linecap="round" fill="none"/>
+<line x1="300" y1="240" x2="300" y2="318" stroke="#55707A" stroke-width="11" stroke-linecap="round" fill="none"/>
+<line x1="300" y1="240" x2="300" y2="318" stroke="#C6D4CF" stroke-width="7" stroke-linecap="round" fill="none"/>
+<line x1="185" y1="275" x2="130" y2="320" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="130" y="342" font-size="18" fill="#16303A" text-anchor="middle">Thick</text>
+<text x="130" y="364" font-size="18" fill="#16303A" text-anchor="middle">ligaments</text>
+<line x1="262" y1="146" x2="248" y2="176" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="275" y="140" font-size="18" fill="#16303A" text-anchor="middle">Deep socket</text>
+
+<!-- SHOULDER -->
+<text x="585" y="55" font-size="26" font-weight="bold" fill="#16303A" text-anchor="middle">Shoulder</text>
+<!-- humerus shaft -->
+<line x1="522" y1="250" x2="545" y2="405" stroke="#16303A" stroke-width="38" stroke-linecap="round" fill="none"/>
+<line x1="522" y1="250" x2="545" y2="405" stroke="#F1EADA" stroke-width="34" stroke-linecap="round" fill="none"/>
+<!-- scapula and glenoid -->
+<rect x="425" y="110" width="36" height="250" rx="10" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<path d="M459,200 L474,200 Q466,230 474,260 L459,260 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<!-- humeral head -->
+<circle cx="524" cy="230" r="50" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<!-- rotator cuff -->
+<path d="M440,130 Q545,112 585,200" fill="none" stroke="#B3304C" stroke-width="14" stroke-linecap="round"/>
+<path d="M440,130 Q545,112 585,200" fill="none" stroke="#F3D9DE" stroke-width="10" stroke-linecap="round"/>
+<path d="M440,340 Q535,350 578,268" fill="none" stroke="#B3304C" stroke-width="14" stroke-linecap="round"/>
+<path d="M440,340 Q535,350 578,268" fill="none" stroke="#F3D9DE" stroke-width="10" stroke-linecap="round"/>
+<line x1="578" y1="150" x2="620" y2="140" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="628" y="136" font-size="18" fill="#B3304C">Rotator cuff</text>
+<text x="628" y="158" font-size="18" fill="#B3304C">muscles</text>
+<line x1="576" y1="235" x2="620" y2="235" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="628" y="230" font-size="18" fill="#16303A">Large ball,</text>
+<text x="628" y="252" font-size="18" fill="#16303A">shallow socket</text>
+<text x="628" y="274" font-size="18" fill="#55707A">(glenoid)</text>
+
+<!-- bottom summaries -->
+<rect x="30" y="432" width="350" height="54" rx="10" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<text x="205" y="455" font-size="18" font-weight="bold" fill="#2F7359" text-anchor="middle">Mostly passive stability</text>
+<text x="205" y="477" font-size="18" fill="#16303A" text-anchor="middle">bony fit, capsule, ligaments</text>
+<rect x="420" y="432" width="350" height="54" rx="10" fill="#F3D9DE" stroke="#B3304C" stroke-width="2"/>
+<text x="595" y="455" font-size="18" font-weight="bold" fill="#B3304C" text-anchor="middle">Mostly active stability</text>
+<text x="595" y="477" font-size="18" fill="#16303A" text-anchor="middle">muscles, timed by the nervous system</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, Helvetica, sans-serif">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<text x="400" y="48" font-size="26" font-weight="bold" fill="#16303A" text-anchor="middle">Three ways a working muscle behaves</text>
+<line x1="270" y1="90" x2="270" y2="450" stroke="#C6D4CF" stroke-width="2"/>
+<line x1="530" y1="90" x2="530" y2="450" stroke="#C6D4CF" stroke-width="2"/>
+<!-- Concentric, center 140 -->
+<text x="140" y="110" font-size="22" font-weight="bold" fill="#B3304C" text-anchor="middle">Concentric</text>
+<rect x="40" y="165" width="16" height="80" fill="#F1EADA" stroke="#CBB78C" stroke-width="2"/>
+<rect x="56" y="185" width="100" height="40" rx="20" fill="#F3D9DE" stroke="#B3304C" stroke-width="3"/>
+<rect x="156" y="180" width="22" height="50" rx="3" fill="#CBB78C" stroke="#16303A" stroke-width="2"/>
+<rect x="196" y="180" width="22" height="50" rx="3" fill="none" stroke="#55707A" stroke-width="2" stroke-dasharray="4 4"/>
+<line x1="215" y1="155" x2="170" y2="155" stroke="#2F7359" stroke-width="4"/>
+<polygon points="158,155 172,147 172,163" fill="#2F7359"/>
+<line x1="178" y1="252" x2="222" y2="252" stroke="#9A5B06" stroke-width="3"/>
+<polygon points="232,252 220,245 220,259" fill="#9A5B06"/>
+<text x="140" y="300" font-size="20" fill="#16303A" text-anchor="middle">Shortens</text>
+<text x="140" y="326" font-size="18" fill="#55707A" text-anchor="middle">muscle force beats load</text>
+<text x="140" y="390" font-size="18" fill="#55707A" text-anchor="middle">In class:</text>
+<text x="140" y="415" font-size="18" fill="#16303A" text-anchor="middle">rising out of Chair</text>
+<!-- Eccentric, center 400 -->
+<text x="400" y="110" font-size="22" font-weight="bold" fill="#B3304C" text-anchor="middle">Eccentric</text>
+<rect x="300" y="165" width="16" height="80" fill="#F1EADA" stroke="#CBB78C" stroke-width="2"/>
+<rect x="316" y="185" width="140" height="40" rx="20" fill="#F3D9DE" stroke="#B3304C" stroke-width="3"/>
+<rect x="416" y="180" width="22" height="50" rx="3" fill="none" stroke="#55707A" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="456" y="180" width="22" height="50" rx="3" fill="#CBB78C" stroke="#16303A" stroke-width="2"/>
+<line x1="420" y1="155" x2="465" y2="155" stroke="#2F7359" stroke-width="4"/>
+<polygon points="477,155 463,147 463,163" fill="#2F7359"/>
+<line x1="478" y1="252" x2="500" y2="252" stroke="#9A5B06" stroke-width="5"/>
+<polygon points="514,252 500,243 500,261" fill="#9A5B06"/>
+<text x="400" y="300" font-size="20" fill="#16303A" text-anchor="middle">Lengthens, under control</text>
+<text x="400" y="326" font-size="18" fill="#55707A" text-anchor="middle">load beats muscle force</text>
+<text x="400" y="390" font-size="18" fill="#55707A" text-anchor="middle">In class:</text>
+<text x="400" y="415" font-size="18" fill="#16303A" text-anchor="middle">lowering to Chaturanga</text>
+<!-- Isometric, center 660 -->
+<text x="660" y="110" font-size="22" font-weight="bold" fill="#B3304C" text-anchor="middle">Isometric</text>
+<rect x="560" y="165" width="16" height="80" fill="#F1EADA" stroke="#CBB78C" stroke-width="2"/>
+<rect x="576" y="185" width="120" height="40" rx="20" fill="#F3D9DE" stroke="#B3304C" stroke-width="3"/>
+<rect x="696" y="180" width="22" height="50" rx="3" fill="#CBB78C" stroke="#16303A" stroke-width="2"/>
+<line x1="690" y1="150" x2="724" y2="150" stroke="#2F7359" stroke-width="4"/>
+<line x1="690" y1="161" x2="724" y2="161" stroke="#2F7359" stroke-width="4"/>
+<line x1="718" y1="252" x2="742" y2="252" stroke="#9A5B06" stroke-width="3"/>
+<polygon points="754,252 742,245 742,259" fill="#9A5B06"/>
+<text x="660" y="300" font-size="20" fill="#16303A" text-anchor="middle">Same length</text>
+<text x="660" y="326" font-size="18" fill="#55707A" text-anchor="middle">muscle force equals load</text>
+<text x="660" y="390" font-size="18" fill="#55707A" text-anchor="middle">In class:</text>
+<text x="660" y="415" font-size="18" fill="#16303A" text-anchor="middle">holding Chair</text>
+<!-- key -->
+<line x1="200" y1="470" x2="236" y2="470" stroke="#2F7359" stroke-width="4"/>
+<text x="246" y="476" font-size="18" fill="#16303A">movement</text>
+<line x1="420" y1="470" x2="450" y2="470" stroke="#9A5B06" stroke-width="3"/>
+<polygon points="460,470 448,463 448,477" fill="#9A5B06"/>
+<text x="470" y="476" font-size="18" fill="#16303A">load (gravity)</text>
+</svg>

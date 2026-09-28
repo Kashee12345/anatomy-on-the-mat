@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<text x="400" y="42" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#16303A" text-anchor="middle" font-weight="bold">Movement terms come in pairs</text>
+<rect x="25" y="66" width="365" height="128" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<text x="43" y="100" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#B3304C" text-anchor="start" font-weight="bold">Flexion</text>
+<text x="43" y="126" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2F7359" text-anchor="start" font-weight="bold">Extension</text>
+<text x="43" y="156" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Knees bend in Chair,</text>
+<text x="43" y="180" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">straighten in Mountain</text>
+<line x1="320.0" y1="80.0" x2="320.0" y2="128.0" stroke="#16303A" stroke-width="8" stroke-linecap="round" fill="none"/>
+<line x1="320.0" y1="128.0" x2="320.0" y2="178.0" stroke="#2F7359" stroke-width="8" stroke-linecap="round" fill="none"/>
+<line x1="320.0" y1="128.0" x2="284.0" y2="153.2" stroke="#B3304C" stroke-width="8" stroke-linecap="round" fill="none"/>
+<circle cx="320" cy="128" r="6" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<path d="M321.2,162.0 A34,34 0 0 1 294.7,150.7" fill="none" stroke="#B3304C" stroke-width="2.5" stroke-linecap="round"/><polygon points="290.6,145.0 300.3,150.9 290.8,156.4" fill="#B3304C" stroke="none"/>
+<rect x="410" y="66" width="365" height="128" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<text x="428" y="100" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#B3304C" text-anchor="start" font-weight="bold">Abduction</text>
+<text x="428" y="126" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2F7359" text-anchor="start" font-weight="bold">Adduction</text>
+<text x="428" y="156" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Arms lift out to the</text>
+<text x="428" y="180" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">sides in Warrior II</text>
+<circle cx="660" cy="84" r="11" fill="#F1EADA" stroke="#16303A" stroke-width="2.5"/>
+<rect x="647" y="99" width="26" height="84" rx="8" fill="#F1EADA" stroke="#16303A" stroke-width="2.5"/>
+<line x1="675.0" y1="106.0" x2="679.0" y2="178.0" stroke="#2F7359" stroke-width="8" stroke-linecap="round" fill="none"/>
+<line x1="675.0" y1="106.0" x2="747.0" y2="106.0" stroke="#B3304C" stroke-width="8" stroke-linecap="round" fill="none"/>
+<circle cx="675" cy="106" r="6" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<path d="M683.3,153.3 A48,48 0 0 0 721.1,119.5" fill="none" stroke="#B3304C" stroke-width="2.5" stroke-linecap="round"/><polygon points="722.5,112.7 726.6,123.3 715.7,121.8" fill="#B3304C" stroke="none"/>
+<rect x="25" y="204" width="365" height="128" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<text x="43" y="238" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#B3304C" text-anchor="start" font-weight="bold">Internal rotation</text>
+<text x="43" y="264" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2F7359" text-anchor="start" font-weight="bold">External rotation</text>
+<text x="43" y="294" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Hip, seen from above:</text>
+<text x="43" y="318" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Warrior II front leg</text>
+<text x="320" y="228" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="middle">front</text>
+<line x1="320.0" y1="280.0" x2="320.0" y2="240.0" stroke="#55707A" stroke-width="3" stroke-linecap="round" fill="none" stroke-dasharray="5 5"/>
+<line x1="320.0" y1="280.0" x2="296.6" y2="250.1" stroke="#B3304C" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="291.7,243.8 303.2,248.7 293.7,256.1" fill="#B3304C" stroke="none"/>
+<line x1="320.0" y1="280.0" x2="343.4" y2="250.1" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="348.3,243.8 346.3,256.1 336.8,248.7" fill="#2F7359" stroke="none"/>
+<circle cx="320" cy="280" r="13" fill="#F1EADA" stroke="#16303A" stroke-width="2.5"/>
+<rect x="410" y="204" width="365" height="128" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<text x="428" y="238" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#B3304C" text-anchor="start" font-weight="bold">Dorsiflexion</text>
+<text x="428" y="264" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2F7359" text-anchor="start" font-weight="bold">Plantarflexion</text>
+<text x="428" y="294" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Shins forward in Chair,</text>
+<text x="428" y="318" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">feet pointed in Cobra</text>
+<line x1="683.0" y1="218.0" x2="683.0" y2="284.0" stroke="#16303A" stroke-width="8" stroke-linecap="round" fill="none"/>
+<line x1="683.0" y1="284.0" x2="741.0" y2="284.0" stroke="#55707A" stroke-width="3" stroke-linecap="round" fill="none" stroke-dasharray="5 5"/>
+<line x1="683.0" y1="284.0" x2="734.2" y2="256.8" stroke="#B3304C" stroke-width="7" stroke-linecap="round" fill="none"/>
+<line x1="683.0" y1="284.0" x2="727.4" y2="321.3" stroke="#2F7359" stroke-width="7" stroke-linecap="round" fill="none"/>
+<circle cx="683" cy="284" r="6" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<rect x="25" y="342" width="365" height="128" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<text x="43" y="376" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#B3304C" text-anchor="start" font-weight="bold">Inversion</text>
+<text x="43" y="402" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2F7359" text-anchor="start" font-weight="bold">Eversion</text>
+<text x="43" y="432" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Back view of the ankle:</text>
+<text x="43" y="456" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">the wobble in Tree</text>
+<line x1="320.0" y1="354.0" x2="320.0" y2="414.0" stroke="#16303A" stroke-width="8" stroke-linecap="round" fill="none"/>
+<circle cx="320" cy="414" r="6" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<line x1="278.0" y1="438.0" x2="362.0" y2="438.0" stroke="#55707A" stroke-width="3" stroke-linecap="round" fill="none" stroke-dasharray="5 5"/>
+<line x1="280.5" y1="417.6" x2="359.5" y2="446.4" stroke="#B3304C" stroke-width="6" stroke-linecap="round" fill="none"/>
+<line x1="280.5" y1="458.4" x2="359.5" y2="429.6" stroke="#2F7359" stroke-width="6" stroke-linecap="round" fill="none"/>
+<rect x="410" y="342" width="365" height="128" rx="12" fill="none" stroke="#C6D4CF" stroke-width="2"/>
+<text x="428" y="376" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#B3304C" text-anchor="start" font-weight="bold">Elevation</text>
+<text x="428" y="402" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2F7359" text-anchor="start" font-weight="bold">Depression</text>
+<text x="428" y="432" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Shoulders creep up,</text>
+<text x="428" y="456" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">then settle down</text>
+<circle cx="705" cy="384" r="14" fill="#F1EADA" stroke="#16303A" stroke-width="2.5"/>
+<line x1="705.0" y1="398.0" x2="705.0" y2="408.0" stroke="#16303A" stroke-width="6" stroke-linecap="round" fill="none"/>
+<path d="M653,418 Q705,404 757,418" fill="none" stroke="#16303A" stroke-width="7" stroke-linecap="round"/>
+<line x1="653.0" y1="404.0" x2="653.0" y2="374.0" stroke="#B3304C" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="653.0,366.0 659.0,377.0 647.0,377.0" fill="#B3304C" stroke="none"/>
+<line x1="653.0" y1="432.0" x2="653.0" y2="452.0" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="653.0,460.0 647.0,449.0 659.0,449.0" fill="#2F7359" stroke="none"/>
+<line x1="757.0" y1="404.0" x2="757.0" y2="374.0" stroke="#B3304C" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="757.0,366.0 763.0,377.0 751.0,377.0" fill="#B3304C" stroke="none"/>
+<line x1="757.0" y1="432.0" x2="757.0" y2="452.0" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/><polygon points="757.0,460.0 751.0,449.0 763.0,449.0" fill="#2F7359" stroke="none"/>
+</svg>

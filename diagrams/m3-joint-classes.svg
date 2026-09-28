@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, Helvetica, sans-serif">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#55707A"/></marker>
+</defs>
+<text x="400" y="46" font-size="26" font-weight="bold" fill="#16303A" text-anchor="middle">Three structural classes of joint</text>
+<!-- dividers -->
+<line x1="270" y1="80" x2="270" y2="395" stroke="#C6D4CF" stroke-width="2" fill="none"/>
+<line x1="530" y1="80" x2="530" y2="395" stroke="#C6D4CF" stroke-width="2" fill="none"/>
+
+<!-- FIBROUS: suture between two skull plates -->
+<path d="M60,100 L140,100 L152,120 L128,140 L152,160 L128,180 L152,200 L128,220 L140,240 L60,240 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<path d="M140,100 L220,100 L220,240 L140,240 L128,220 L152,200 L128,180 L152,160 L128,140 L152,120 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<path d="M140,100 L152,120 L128,140 L152,160 L128,180 L152,200 L128,220 L140,240" fill="none" stroke="#2F7359" stroke-width="6" stroke-linejoin="round"/>
+<text x="140" y="290" font-size="22" font-weight="bold" fill="#16303A" text-anchor="middle">Fibrous</text>
+<text x="140" y="318" font-size="18" fill="#55707A" text-anchor="middle">Dense fibrous tissue</text>
+<text x="140" y="343" font-size="18" fill="#55707A" text-anchor="middle">Little or no movement</text>
+<text x="140" y="368" font-size="18" fill="#16303A" text-anchor="middle">e.g. skull sutures</text>
+
+<!-- CARTILAGINOUS: two vertebral bodies with disc -->
+<rect x="335" y="100" width="130" height="55" rx="12" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<rect x="330" y="158" width="140" height="26" rx="13" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<rect x="335" y="187" width="130" height="55" rx="12" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<text x="400" y="290" font-size="22" font-weight="bold" fill="#16303A" text-anchor="middle">Cartilaginous</text>
+<text x="400" y="318" font-size="18" fill="#55707A" text-anchor="middle">Cartilage joins bones</text>
+<text x="400" y="343" font-size="18" fill="#55707A" text-anchor="middle">A little movement</text>
+<text x="400" y="368" font-size="18" fill="#16303A" text-anchor="middle">e.g. spinal discs,</text>
+<text x="400" y="391" font-size="18" fill="#16303A" text-anchor="middle">pubic symphysis</text>
+
+<!-- SYNOVIAL -->
+<rect x="603" y="128" width="114" height="84" rx="30" fill="#F7E6C8" stroke="#16303A" stroke-width="3"/>
+<path d="M625,95 L695,95 L695,142 Q695,170 660,170 Q625,170 625,142 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<path d="M627,152 Q640,169 660,169 Q680,169 693,152" fill="none" stroke="#2F7359" stroke-width="5"/>
+<path d="M620,245 L700,245 L700,195 Q660,180 620,195 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<path d="M622,194 Q660,181 698,194" fill="none" stroke="#2F7359" stroke-width="5"/>
+<text x="660" y="290" font-size="22" font-weight="bold" fill="#16303A" text-anchor="middle">Synovial</text>
+<text x="660" y="318" font-size="18" fill="#55707A" text-anchor="middle">Fluid-filled cavity</text>
+<text x="660" y="343" font-size="18" fill="#55707A" text-anchor="middle">Freely movable</text>
+<text x="660" y="368" font-size="18" fill="#16303A" text-anchor="middle">e.g. hip, knee, shoulder</text>
+
+<!-- spectrum arrow -->
+<line x1="70" y1="428" x2="730" y2="428" stroke="#55707A" stroke-width="3" fill="none" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="40" y="468" font-size="18" fill="#2F7359" text-anchor="start">More stable, less mobile</text>
+<text x="760" y="468" font-size="18" fill="#B3304C" text-anchor="end">More mobile, less stable</text>
+</svg>

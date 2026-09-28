@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<line x1="24" y1="396" x2="440" y2="396" stroke="#55707A" stroke-width="2" fill="none"/>
+<text x="24" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#16303A" text-anchor="start" font-weight="bold">Inner side of the right foot</text>
+<path d="M150,70 L204,70 L208,206 C210,220 196,228 186,224 L154,214 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<path d="M150,236 C160,212 214,212 236,236 C244,250 226,262 206,262 L160,262 C148,258 146,246 150,236 Z" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2.5"/>
+<path d="M72,300 C70,270 100,256 132,262 L206,266 C214,280 206,300 186,312 L150,336 C128,370 110,388 90,388 C74,386 70,350 72,300 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<path d="M238,238 C252,236 262,250 262,268 C262,282 250,290 238,288 C226,276 226,252 238,238 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2.5"/>
+<path d="M266,254 L296,262 L300,302 L266,300 C262,286 262,268 266,254 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<path d="M302,266 C330,280 360,320 384,356 C396,372 392,392 376,392 C360,390 356,376 348,366 C330,338 316,320 302,302 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<path d="M390,366 L420,374 C428,378 426,390 418,390 L392,390 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<path d="M424,378 L438,384 C440,390 436,392 430,392 L424,390 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2"/>
+<path d="M100,392 C160,300 300,300 372,392" fill="none" stroke="#2F7359" stroke-width="3" stroke-dasharray="7 5"/>
+<text x="236" y="360" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2F7359" text-anchor="middle" font-weight="bold">Medial arch</text>
+<text x="224" y="104" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Tibia</text>
+<line x1="218" y1="98" x2="204" y2="110" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="214" y="170" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Medial malleolus</text>
+<line x1="210" y1="176" x2="200" y2="206" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="200" cy="206" r="3.5" fill="#16303A"/>
+<text x="250" y="222" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Talus</text>
+<line x1="248" y1="216" x2="226" y2="232" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="226" cy="232" r="3.5" fill="#16303A"/>
+<text x="276" y="236" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Navicular</text>
+<line x1="272" y1="240" x2="256" y2="248" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="256" cy="248" r="3.5" fill="#16303A"/>
+<text x="24" y="430" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Calcaneus (heel)</text>
+<line x1="90" y1="412" x2="92" y2="384" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="92" cy="384" r="3.5" fill="#16303A"/>
+<text x="248" y="430" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">1st metatarsal head</text>
+<line x1="356" y1="412" x2="372" y2="388" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="372" cy="388" r="3.5" fill="#16303A"/>
+<line x1="460" y1="40" x2="460" y2="460" stroke="#C6D4CF" stroke-width="2" fill="none"/>
+<text x="484" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#16303A" text-anchor="start" font-weight="bold">The foot tripod</text>
+<path d="M504,124 C520,104 574,110 592,132 C606,152 602,188 590,220 C580,252 578,286 582,320 C586,360 580,410 546,418 C512,422 500,392 504,352 C508,316 506,284 500,256 C492,214 488,150 504,124 Z" fill="#F1EADA" stroke="#CBB78C" stroke-width="2.5"/>
+<ellipse cx="510" cy="98" rx="12" ry="15" fill="#F1EADA" stroke="#CBB78C" stroke-width="2"/>
+<ellipse cx="536" cy="90" rx="7" ry="9" fill="#F1EADA" stroke="#CBB78C" stroke-width="2"/>
+<ellipse cx="554" cy="94" rx="6" ry="8" fill="#F1EADA" stroke="#CBB78C" stroke-width="2"/>
+<ellipse cx="570" cy="102" rx="6" ry="7" fill="#F1EADA" stroke="#CBB78C" stroke-width="2"/>
+<ellipse cx="584" cy="114" rx="5" ry="6" fill="#F1EADA" stroke="#CBB78C" stroke-width="2"/>
+<polygon points="512.0,150.0 586.0,176.0 544.0,386.0" fill="#D5E9DF" stroke="#2F7359" stroke-width="2.5" fill-opacity="0.8"/>
+<path d="M506,196 C530,184 566,186 596,206" fill="none" stroke="#9A5B06" stroke-width="2.5" stroke-dasharray="6 4"/>
+<circle cx="512" cy="150" r="8" fill="#2F7359" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="586" cy="176" r="8" fill="#2F7359" stroke="#F9FBFA" stroke-width="2"/>
+<circle cx="544" cy="386" r="8" fill="#2F7359" stroke="#F9FBFA" stroke-width="2"/>
+<text x="620" y="142" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Big toe mound</text>
+<line x1="616" y1="136" x2="520" y2="150" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="620" y="180" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Little toe mound</text>
+<line x1="616" y1="174" x2="594" y2="176" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="620" y="238" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#9A5B06" text-anchor="start">Transverse arch</text>
+<line x1="616" y1="232" x2="594" y2="206" stroke="#9A5B06" stroke-width="1.5" fill="none"/>
+<text x="620" y="392" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Heel</text>
+<line x1="616" y1="386" x2="552" y2="386" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="620" y="300" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2F7359" text-anchor="start">Weight shares</text>
+<text x="620" y="322" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2F7359" text-anchor="start">across three</text>
+<text x="620" y="344" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2F7359" text-anchor="start">points</text>
+</svg>

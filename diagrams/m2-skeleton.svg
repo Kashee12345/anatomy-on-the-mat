@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<polygon points="338.0,140.0 370.0,146.0 360.0,206.0" fill="#D5E9DF" stroke="#2F7359" stroke-width="2" stroke-dasharray="5 4"/>
+<polygon points="462.0,140.0 430.0,146.0 440.0,206.0" fill="#D5E9DF" stroke="#2F7359" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="393" y="112" width="14" height="4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="393" y="117" width="14" height="4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="393" y="122" width="14" height="4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="393" y="127" width="14" height="4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="392" y="133.0" width="16" height="5.4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="392" y="140.2" width="16" height="5.4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="392" y="147.4" width="16" height="5.4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="392" y="154.6" width="16" height="5.4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="392" y="161.8" width="16" height="5.4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="392" y="169.0" width="16" height="5.4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="392" y="176.2" width="16" height="5.4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="392" y="183.4" width="16" height="5.4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="392" y="190.6" width="16" height="5.4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="392" y="197.8" width="16" height="5.4" rx="1.5" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="388" y="206" width="24" height="6.5" rx="2" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="388" y="214" width="24" height="6.5" rx="2" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="388" y="222" width="24" height="6.5" rx="2" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="388" y="230" width="24" height="6.5" rx="2" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<rect x="388" y="238" width="24" height="6.5" rx="2" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<path d="M391,142.0 C368.0,136.0 362.0,144.0 372.0,158.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M409,142.0 C432.0,136.0 438.0,144.0 428.0,158.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M391,149.2 C364.8,143.2 358.8,151.2 368.8,166.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M409,149.2 C435.2,143.2 441.2,151.2 431.2,166.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M391,156.4 C361.6,150.4 355.6,158.4 365.6,174.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M409,156.4 C438.4,150.4 444.4,158.4 434.4,174.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M391,163.6 C358.4,157.6 352.4,165.6 362.4,182.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M409,163.6 C441.6,157.6 447.6,165.6 437.6,182.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M391,170.8 C355.2,164.8 349.2,172.8 359.2,190.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M409,170.8 C444.8,164.8 450.8,172.8 440.8,190.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M391,178.0 C352.0,172.0 346.0,180.0 356.0,198.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M409,178.0 C448.0,172.0 454.0,180.0 444.0,198.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M391,185.2 C348.8,179.2 342.8,187.2 352.8,206.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M409,185.2 C451.2,179.2 457.2,187.2 447.2,206.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M391,192.4 C348.8,186.4 342.8,194.4 352.8,214.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M409,192.4 C451.2,186.4 457.2,194.4 447.2,214.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M391,199.6 C350.8,193.6 344.8,201.6 354.8,222.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M409,199.6 C449.2,193.6 455.2,201.6 445.2,222.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M391,206.8 C352.8,200.8 346.8,208.8 356.8,230.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M409,206.8 C447.2,200.8 453.2,208.8 443.2,230.0" fill="none" stroke="#9A5B06" stroke-width="2.2"/>
+<path d="M392,128 L408,128 L407,142 L409,186 L400,196 L391,186 L393,142 Z" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<path d="M391,128 C372,122 358,134 338,127" fill="none" stroke="#2F7359" stroke-width="5" stroke-linecap="round"/>
+<path d="M409,128 C428,122 442,134 462,127" fill="none" stroke="#2F7359" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="400" cy="74" rx="26" ry="27" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<path d="M378,84 C378,104 388,111 400,111 C412,111 422,104 422,84 Z" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<ellipse cx="390" cy="80" rx="6" ry="5" fill="#F9FBFA" stroke="#9A5B06" stroke-width="1.5"/>
+<ellipse cx="410" cy="80" rx="6" ry="5" fill="#F9FBFA" stroke="#9A5B06" stroke-width="1.5"/>
+<path d="M388,246 C372,230 350,224 344,238 C340,252 348,260 352,270 C356,280 372,288 396,286 L396,276 C384,274 378,266 384,258 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<path d="M412.0,246 C428.0,230 450.0,224 456.0,238 C460.0,252 452.0,260 448.0,270 C444.0,280 428.0,288 404.0,286 L404.0,276 C416.0,274 422.0,266 416.0,258 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<path d="M388,246 L412,246 L406,272 L400,280 L394,272 Z" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<circle cx="336" cy="134" r="7" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="336" y1="138" x2="324" y2="212" stroke="#2F7359" stroke-width="7" stroke-linecap="round" fill="none"/>
+<line x1="326" y1="218" x2="318" y2="288" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/>
+<line x1="320" y1="218" x2="310" y2="286" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/>
+<rect x="306" y="290" width="16" height="11" rx="3" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="320" y1="302" x2="319" y2="326" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<line x1="316" y1="302" x2="315" y2="326" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<line x1="312" y1="302" x2="311" y2="326" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<line x1="308" y1="302" x2="307" y2="326" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<line x1="321" y1="300" x2="328" y2="316" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<circle cx="362" cy="274" r="7" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="362" y1="278" x2="372" y2="360" stroke="#2F7359" stroke-width="8" stroke-linecap="round" fill="none"/>
+<circle cx="372" cy="366" r="6" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="375" y1="376" x2="376" y2="448" stroke="#2F7359" stroke-width="7" stroke-linecap="round" fill="none"/>
+<line x1="364" y1="380" x2="366" y2="448" stroke="#2F7359" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+<path d="M384,452 L362,452 L354,470 L386,470 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<circle cx="464" cy="134" r="7" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="464" y1="138" x2="476" y2="212" stroke="#2F7359" stroke-width="7" stroke-linecap="round" fill="none"/>
+<line x1="474" y1="218" x2="482" y2="288" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/>
+<line x1="480" y1="218" x2="490" y2="286" stroke="#2F7359" stroke-width="4" stroke-linecap="round" fill="none"/>
+<rect x="478" y="290" width="16" height="11" rx="3" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="480" y1="302" x2="481" y2="326" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<line x1="484" y1="302" x2="485" y2="326" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<line x1="488" y1="302" x2="489" y2="326" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<line x1="492" y1="302" x2="493" y2="326" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<line x1="479" y1="300" x2="472" y2="316" stroke="#2F7359" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<circle cx="438" cy="274" r="7" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="438" y1="278" x2="428" y2="360" stroke="#2F7359" stroke-width="8" stroke-linecap="round" fill="none"/>
+<circle cx="428" cy="366" r="6" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<line x1="425" y1="376" x2="424" y2="448" stroke="#2F7359" stroke-width="7" stroke-linecap="round" fill="none"/>
+<line x1="436" y1="380" x2="434" y2="448" stroke="#2F7359" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+<path d="M416,452 L438,452 L446,470 L414,470 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<text x="236" y="134" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Clavicle</text>
+<line x1="242" y1="128" x2="372" y2="126" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="372" cy="126" r="3.5" fill="#16303A"/>
+<text x="236" y="172" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Scapula (behind ribs)</text>
+<line x1="242" y1="166" x2="352" y2="166" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="352" cy="166" r="3.5" fill="#16303A"/>
+<text x="236" y="210" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Humerus</text>
+<line x1="242" y1="204" x2="329" y2="180" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="329" cy="180" r="3.5" fill="#16303A"/>
+<text x="236" y="256" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Radius and ulna</text>
+<line x1="242" y1="250" x2="316" y2="250" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="316" cy="250" r="3.5" fill="#16303A"/>
+<text x="236" y="318" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Hand bones</text>
+<line x1="242" y1="312" x2="314" y2="312" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="314" cy="312" r="3.5" fill="#16303A"/>
+<text x="236" y="354" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Femur</text>
+<line x1="242" y1="348" x2="368" y2="320" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="368" cy="320" r="3.5" fill="#16303A"/>
+<text x="236" y="388" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Patella</text>
+<line x1="242" y1="382" x2="372" y2="366" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="372" cy="366" r="3.5" fill="#16303A"/>
+<text x="236" y="424" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Tibia and fibula</text>
+<line x1="242" y1="418" x2="368" y2="418" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="368" cy="418" r="3.5" fill="#16303A"/>
+<text x="236" y="468" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="end">Foot bones</text>
+<line x1="242" y1="462" x2="360" y2="462" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="360" cy="462" r="3.5" fill="#16303A"/>
+<text x="566" y="80" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Skull</text>
+<line x1="560" y1="74" x2="426" y2="74" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="426" cy="74" r="3.5" fill="#16303A"/>
+<text x="566" y="124" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Cervical vertebrae</text>
+<line x1="560" y1="118" x2="407" y2="118" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="407" cy="118" r="3.5" fill="#16303A"/>
+<text x="566" y="164" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Sternum</text>
+<line x1="560" y1="158" x2="408" y2="160" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="408" cy="160" r="3.5" fill="#16303A"/>
+<text x="566" y="202" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Ribs</text>
+<line x1="560" y1="196" x2="438" y2="186" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="438" cy="186" r="3.5" fill="#16303A"/>
+<text x="566" y="232" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Lumbar vertebrae</text>
+<line x1="560" y1="226" x2="412" y2="222" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="412" cy="222" r="3.5" fill="#16303A"/>
+<text x="566" y="268" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Sacrum</text>
+<line x1="560" y1="262" x2="404" y2="258" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="404" cy="258" r="3.5" fill="#16303A"/>
+<text x="566" y="304" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Hip bone</text>
+<line x1="560" y1="298" x2="446" y2="262" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<circle cx="446" cy="262" r="3.5" fill="#16303A"/>
+<rect x="566" y="360" width="24" height="18" rx="3" fill="#F7E6C8" stroke="#9A5B06" stroke-width="2"/>
+<text x="600" y="375" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Axial: 80 bones</text>
+<rect x="566" y="396" width="24" height="18" rx="3" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<text x="600" y="411" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16303A" text-anchor="start">Appendicular: 126</text>
+<text x="566" y="452" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#55707A" text-anchor="start">Total: 206 bones</text>
+</svg>

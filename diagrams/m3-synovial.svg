@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, Helvetica, sans-serif">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<text x="30" y="46" font-size="26" font-weight="bold" fill="#16303A">Anatomy of a synovial joint</text>
+
+<!-- ligament (outside capsule) -->
+<rect x="243" y="150" width="14" height="210" rx="7" fill="#C6D4CF" stroke="#55707A" stroke-width="2"/>
+<!-- capsule filled with synovial fluid -->
+<rect x="265" y="165" width="170" height="180" rx="40" fill="#F7E6C8" stroke="#16303A" stroke-width="5"/>
+<!-- synovial membrane lining -->
+<rect x="273" y="173" width="154" height="164" rx="34" fill="none" stroke="#B3304C" stroke-width="2.5" stroke-dasharray="7 5"/>
+
+<!-- upper bone: cartilage then bone -->
+<path d="M290,90 L410,90 L410,205 Q410,252 350,252 Q290,252 290,205 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<path d="M290,80 L410,80 L410,195 Q410,240 350,240 Q290,240 290,195 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<!-- lower bone -->
+<path d="M280,440 L420,440 L420,270 Q350,252 280,270 Z" fill="#D5E9DF" stroke="#2F7359" stroke-width="2"/>
+<path d="M280,450 L420,450 L420,282 Q350,264 280,282 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+
+<!-- right labels -->
+<line x1="400" y1="120" x2="510" y2="120" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="518" y="127" font-size="20" fill="#16303A">Bone</text>
+
+<line x1="398" y1="232" x2="510" y2="185" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="518" y="185" font-size="20" fill="#16303A">Articular cartilage</text>
+<text x="518" y="209" font-size="18" fill="#55707A">(hyaline: smooth, slippery)</text>
+
+<line x1="385" y1="258" x2="510" y2="258" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="518" y="258" font-size="20" fill="#16303A">Synovial fluid</text>
+<text x="518" y="282" font-size="18" fill="#55707A">(lubricates, feeds cartilage)</text>
+
+<line x1="437" y1="315" x2="510" y2="345" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="518" y="350" font-size="20" fill="#16303A">Fibrous capsule</text>
+<text x="518" y="374" font-size="18" fill="#55707A">(sleeve that seals the joint)</text>
+
+<!-- left labels -->
+<line x1="243" y1="200" x2="200" y2="200" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="192" y="198" font-size="20" fill="#16303A" text-anchor="end">Ligament</text>
+<text x="192" y="222" font-size="18" fill="#55707A" text-anchor="end">(bone to bone)</text>
+
+<line x1="275" y1="300" x2="200" y2="310" stroke="#55707A" stroke-width="1.5" fill="none"/>
+<text x="192" y="310" font-size="20" fill="#16303A" text-anchor="end">Synovial</text>
+<text x="192" y="334" font-size="20" fill="#16303A" text-anchor="end">membrane</text>
+<text x="192" y="358" font-size="18" fill="#55707A" text-anchor="end">(makes the fluid)</text>
+
+<text x="30" y="475" font-size="18" fill="#55707A">Schematic, not to scale</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, Helvetica, sans-serif">
+<rect width="800" height="500" fill="#F9FBFA"/>
+<defs>
+<marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#B3304C"/></marker>
+</defs>
+<text x="400" y="46" font-size="26" font-weight="bold" fill="#16303A" text-anchor="middle">What stops the movement?</text>
+<line x1="400" y1="75" x2="400" y2="455" stroke="#C6D4CF" stroke-width="2" fill="none"/>
+
+<!-- LEFT: TENSION -->
+<text x="210" y="95" font-size="22" font-weight="bold" fill="#2F7359" text-anchor="middle">Tension</text>
+<text x="210" y="122" font-size="18" fill="#55707A" text-anchor="middle">Soft, springy end feel</text>
+<!-- stretched tissue band -->
+<path d="M100,318 Q235,350 318,200" fill="none" stroke="#B3304C" stroke-width="14" stroke-linecap="round"/>
+<path d="M100,318 Q235,350 318,200" fill="none" stroke="#F3D9DE" stroke-width="10" stroke-linecap="round"/>
+<path d="M100,318 Q235,350 318,200" fill="none" stroke="#B3304C" stroke-width="1.5" stroke-dasharray="4 6"/>
+<!-- bones -->
+<line x1="70" y1="300" x2="210" y2="300" stroke="#16303A" stroke-width="30" stroke-linecap="round" fill="none"/>
+<line x1="70" y1="300" x2="210" y2="300" stroke="#F1EADA" stroke-width="26" stroke-linecap="round" fill="none"/>
+<line x1="210" y1="300" x2="310" y2="172" stroke="#16303A" stroke-width="30" stroke-linecap="round" fill="none"/>
+<line x1="210" y1="300" x2="310" y2="172" stroke="#F1EADA" stroke-width="26" stroke-linecap="round" fill="none"/>
+<circle cx="210" cy="300" r="9" fill="#16303A"/>
+<!-- motion arrow -->
+<path d="M352,196 A70,70 0 0 0 322,138" fill="none" stroke="#B3304C" stroke-width="3" marker-end="url(#mv)"/>
+<text x="210" y="385" font-size="18" fill="#16303A" text-anchor="middle">Muscle, fascia or ligament</text>
+<text x="210" y="409" font-size="18" fill="#16303A" text-anchor="middle">reaches its stretch limit</text>
+<text x="210" y="442" font-size="18" fill="#55707A" text-anchor="middle">e.g. hamstrings in a fold</text>
+
+<!-- RIGHT: COMPRESSION -->
+<text x="590" y="95" font-size="22" font-weight="bold" fill="#9A5B06" text-anchor="middle">Compression</text>
+<text x="590" y="122" font-size="18" fill="#55707A" text-anchor="middle">Firm, solid end feel</text>
+<!-- femur: neck and shaft -->
+<line x1="560" y1="255" x2="650" y2="276" stroke="#16303A" stroke-width="30" stroke-linecap="round" fill="none"/>
+<line x1="648" y1="272" x2="735" y2="380" stroke="#16303A" stroke-width="34" stroke-linecap="round" fill="none"/>
+<line x1="560" y1="255" x2="650" y2="276" stroke="#F1EADA" stroke-width="26" stroke-linecap="round" fill="none"/>
+<line x1="648" y1="272" x2="735" y2="380" stroke="#F1EADA" stroke-width="30" stroke-linecap="round" fill="none"/>
+<circle cx="560" cy="250" r="34" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<!-- pelvis with socket -->
+<path d="M460,165 L630,165 L630,250 L598,250 A38,38 0 0 0 522,250 L460,250 Z" fill="#F1EADA" stroke="#16303A" stroke-width="2"/>
+<text x="490" y="200" font-size="18" fill="#55707A" text-anchor="middle">Pelvis</text>
+<!-- contact point -->
+<circle cx="602" cy="251" r="11" fill="#F7E6C8" stroke="#9A5B06" stroke-width="3"/>
+<!-- motion arrow -->
+<path d="M772,372 A90,90 0 0 0 770,312" fill="none" stroke="#B3304C" stroke-width="3" marker-end="url(#mv)"/>
+<text x="700" y="215" font-size="18" fill="#9A5B06" text-anchor="middle">Contact</text>
+<line x1="614" y1="246" x2="668" y2="222" stroke="#9A5B06" stroke-width="1.5" fill="none"/>
+<text x="590" y="385" font-size="18" fill="#16303A" text-anchor="middle">Femoral neck meets</text>
+<text x="590" y="409" font-size="18" fill="#16303A" text-anchor="middle">the socket rim</text>
+<text x="590" y="442" font-size="18" fill="#55707A" text-anchor="middle">Soft tissue can compress too</text>
+
+<text x="400" y="482" font-size="18" fill="#16303A" text-anchor="middle">Where the end comes depends on each person's bone shape</text>
+</svg>
