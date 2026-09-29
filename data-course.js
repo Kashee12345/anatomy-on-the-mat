@@ -427,7 +427,7 @@ const COURSE={
 "title": "Optional Live Session 3: Adaptation Clinic",
 "mins": 60,
 "after": 12,
-"desc": "Trainees bring real student scenarios; we adapt poses together. Offered as the third live hour if the school prefers 27 recorded plus 3 live."
+"desc": "Trainees bring real student scenarios; we adapt poses together. Offered as a third live hour if the school prefers 27 recorded plus 3 live, with Lesson 1.1 moving into the live welcome."
 }
 ]
 };

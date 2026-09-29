@@ -58,6 +58,13 @@ p{margin:0}
 .nav a{font-size:.9rem;color:var(--muted);text-decoration:none;padding:6px 10px;border-radius:999px}
 .nav a:hover{color:var(--ink);background:var(--surface-2)}
 .nav a[aria-current="page"]{color:var(--ink);background:var(--surface-2);font-weight:600}
+@media (max-width:700px){
+  .bar-in{gap:6px 10px;padding-block:8px 6px}
+  .theme-btn{margin-left:auto}
+  .nav{order:3;width:100%;margin-left:0;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  .nav::-webkit-scrollbar{display:none}
+  .nav a{white-space:nowrap;padding:5px 10px}
+}
 .theme-btn{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:5px 10px;font:inherit;font-size:.82rem;cursor:pointer}
 
 /* plates */

@@ -4,6 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The Hip in Three Standing Poses · Anatomy on the Mat</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22%3E%3Crect width=%2224%22 height=%2224%22 rx=%225%22 fill=%22%2316303A%22/%3E%3Ccircle cx=%2212%22 cy=%225%22 r=%222.4%22 fill=%22%23F07F93%22/%3E%3Cpath d=%22M12 8v6M5 11l7 1 7-1M12 14l-5 6M12 14l5 6%22 stroke=%22%23E3ECE9%22 stroke-width=%222.2%22 stroke-linecap=%22round%22 fill=%22none%22/%3E%3C/svg%3E">
+<meta name="description" content="Sample lesson: the hip in Warrior I, Warrior II and Triangle, with an interactive pelvis lab and teaching video script.">
+<meta property="og:title" content="The Hip in Three Standing Poses · Anatomy on the Mat">
+<meta property="og:description" content="Sample lesson: the hip in Warrior I, Warrior II and Triangle, with an interactive pelvis lab and teaching video script.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#16303A">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Young+Serif&display=swap">
 <link rel="stylesheet" href="shared.css">
@@ -218,7 +224,7 @@ input[type=range]{width:100%;accent-color:var(--muscle)}
     // gauges
     const g=p.g.map(x=>x.slice());
     if(cur==="w1"){g[1][1]=Math.round(18-w*0.25);g[2][1]=Math.round(6+w*0.8);}
-    document.getElementById("gauges").innerHTML=g.map(([n,v,b])=>`<span>${n}</span><span class="track" title="${v} degrees"><span class="fill${b?" back":""}" style="width:${Math.min(100,v/90*100)}%"></span></span>`).join("")+`<span></span><span class="plate-cap">approximate degrees, scale 0–90 · <span style="color:var(--muscle)">front leg</span> · <span style="color:var(--sage)">back leg</span></span>`;
+    document.getElementById("gauges").innerHTML=g.map(([n,v,b])=>`<span>${n}</span><span class="track" title="${v} degrees"><span class="fill${b?" back":""}" style="width:${Math.min(100,v/90*100)}%"></span></span>`).join("")+`<span></span><span class="plate-cap">approximate degrees, scale 0 to 90 · <span style="color:var(--muscle)">front leg</span> · <span style="color:var(--sage)">back leg</span></span>`;
     document.getElementById("labNote").textContent=notes[cur](w);
   }
   function fig(){const pose=POSES.find(x=>x.id===P[cur].fig);drawFigure(document.getElementById("poseFig"),pose.fig,{highlight:["thighR","thighL"],joints:["hipR","hipL"]});document.getElementById("figCap").innerHTML=`<b>Plate 4</b> · ${pose.name} (${pose.sk}), hips highlighted`;}

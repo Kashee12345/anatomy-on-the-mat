@@ -25,7 +25,7 @@ const CARDS=[
 ["Joints","Passive stability","Stability from bone shape, ligaments and joint capsule. The hip has a lot; the shoulder has little."],
 ["Joints","Active stability","Stability supplied by muscle contraction. The rotator cuff does this for the shoulder in Chaturanga."],
 ["Muscles","Iliopsoas","The main hip flexor, running from the lumbar spine and inner pelvis to the femur. Lengthened in the back leg of lunges."],
-["Muscles","Gluteus maximus","The prime hip extensor. Lifts the pelvis in Bridge and Locust."],
+["Muscles","Gluteus maximus","The prime hip extensor. Lifts the pelvis in Bridge and the legs in Locust."],
 ["Muscles","Gluteus medius","Hip abductor and pelvic stabilizer. Keeps the pelvis level on one leg in Tree and Warrior III."],
 ["Muscles","Hamstrings","Three muscles from the sitting bones to below the knee. They extend the hip and flex the knee; lengthened in forward folds."],
 ["Muscles","Quadriceps","Four muscles on the front of the thigh that extend the knee. Rectus femoris also crosses the hip."],
