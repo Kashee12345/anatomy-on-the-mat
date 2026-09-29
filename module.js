@@ -85,7 +85,7 @@
       box.querySelectorAll(".ml").forEach(b => b.addEventListener("click", () => { if (b.classList.contains("right")) return; box.querySelectorAll(".ml").forEach(x => x.classList.remove("sel")); b.classList.add("sel"); sel = b; }));
       box.querySelectorAll(".mr").forEach(b => b.addEventListener("click", () => {
         if (!sel || b.classList.contains("right")) return;
-        if (sel.dataset.k === b.dataset.k) { sel.classList.remove("sel"); sel.classList.add("right"); b.classList.add("right"); sel = null; got++; fb.textContent = got === e.pairs.length ? (miss ? `All matched, with ${miss} miss${miss > 1 ? "es" : ""}.` : "All matched, no misses.") : ""; if (got === e.pairs.length) mark(i, !miss); }
+        if (sel.dataset.k === b.dataset.k || e.pairs[+sel.dataset.k][1] === e.pairs[+b.dataset.k][1]) { sel.classList.remove("sel"); sel.classList.add("right"); b.classList.add("right"); sel = null; got++; fb.textContent = got === e.pairs.length ? (miss ? `All matched, with ${miss} miss${miss > 1 ? "es" : ""}.` : "All matched, no misses.") : ""; if (got === e.pairs.length) mark(i, !miss); }
         else { miss++; b.classList.add("wrong"); setTimeout(() => b.classList.remove("wrong"), 500); }
       })); }
     if (e.type === "sort") { let sel = null;
